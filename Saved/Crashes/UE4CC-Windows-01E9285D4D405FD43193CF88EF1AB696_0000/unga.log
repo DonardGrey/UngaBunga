@@ -1,0 +1,1153 @@
+﻿Log file open, 04/02/20 14:15:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unga
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.444440
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=DonardGrey -epicuserid=b197333d71774c16b886d2d9856eb5ad -epiclocale=en
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.02-18.15.37:108][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-18.15.37:108][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-18.15.37:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-18.15.37:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:109][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-18.15.37:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-18.15.37:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-18.15.37:112][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-18.15.37:112][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-18.15.37:128][  0]LogHAL: Display: Platform has ~ 16 GB [17124491264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.02-18.15.37:128][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-18.15.37:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-18.15.37:128][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-18.15.37:129][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-18.15.37:133][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-18.15.37:133][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-18.15.37:133][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-18.15.37:134][  0]LogInit: Computer: DESKTOP-MN3TC04
+[2020.04.02-18.15.37:134][  0]LogInit: User: Donnie
+[2020.04.02-18.15.37:134][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.02-18.15.37:134][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-18.15.37:134][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.02-18.15.37:134][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-18.15.37:134][  0]LogMemory: Process Physical Memory: 97.74 MB used, 97.74 MB peak
+[2020.04.02-18.15.37:134][  0]LogMemory: Process Virtual Memory: 89.61 MB used, 89.61 MB peak
+[2020.04.02-18.15.37:134][  0]LogMemory: Physical Memory: 4808.40 MB used,  11522.79 MB free, 16331.19 MB total
+[2020.04.02-18.15.37:134][  0]LogMemory: Virtual Memory: 4660.49 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.02-18.15.37:264][  0]LogInit: Using OS detected language (en-US).
+[2020.04.02-18.15.37:264][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.02-18.15.37:266][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.02-18.15.37:451][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-18.15.37:488][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-18.15.37:488][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-18.15.37:720][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-18.15.37:720][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-18.15.37:815][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.04.02-18.15.37:816][  0]LogD3D11RHI:       5980/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.02-18.15.37:818][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-18.15.37:818][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-18.15.37:818][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-18.15.37:825][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-18.15.37:825][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-18.15.37:825][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-18.15.37:826][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.04.02-18.15.37:826][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-18.15.37:826][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-18.15.37:826][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-18.15.37:826][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.02-18.15.37:826][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.04.02-18.15.37:826][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.04.02-18.15.37:826][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.04.02-18.15.37:826][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.04.02-18.15.37:889][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-18.15.37:899][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-18.15.37:900][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-18.15.37:900][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-18.15.37:908][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.02-18.15.38:156][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.02-18.15.38:170][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.02-18.15.38:183][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.02-18.15.38:197][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.02-18.15.38:212][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.02-18.15.38:226][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.02-18.15.38:239][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-18.15.38:253][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.02-18.15.38:259][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.02-18.15.38:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-18.15.38:342][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.02-18.15.38:393][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.02-18.15.38:393][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.02-18.15.38:417][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.02-18.15.38:417][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.02-18.15.38:429][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.02-18.15.38:441][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-18.15.38:454][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.02-18.15.38:467][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.02-18.15.38:511][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.02-18.15.38:511][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.02-18.15.38:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-18.15.38:518][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-18.15.38:554][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (../../../../GameJams/unga/Intermediate/Shaders/WorkingDirectory/9716/).
+[2020.04.02-18.15.38:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Donnie/AppData/Local/Temp/UnrealShaderWorkingDir/E6220D34480AF46C8CC54A91EFE1F1F6/'.
+[2020.04.02-18.15.38:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-18.15.38:555][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-18.15.38:555][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-18.15.39:084][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-18.15.39:122][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.02-18.15.39:123][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.02-18.15.39:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GameJams/unga/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-18.15.39:123][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-18.15.39:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GameJams/unga/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-18.15.39:123][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-18.15.39:134][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-18.15.39:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-18.15.39:134][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-18.15.39:147][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Donnie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-18.15.39:147][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-18.15.39:147][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-18.15.39:167][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-18.15.39:169][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.02-18.15.39:169][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-18.15.39:256][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2020.04.02-18.15.39:569][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-18.15.39:689][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-18.15.39:689][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-18.15.39:689][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-18.15.39:689][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-18.15.39:689][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-18.15.39:703][  0]LogNetVersion: unga 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2805561233)
+[2020.04.02-18.15.40:058][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037488 seconds
+[2020.04.02-18.15.40:064][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.02-18.15.40:064][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.02-18.15.40:064][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-18.15.40:890][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-18.15.40:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-18.15.41:025][  0]SourceControl: Source control is disabled
+[2020.04.02-18.15.41:025][  0]SourceControl: Source control is disabled
+[2020.04.02-18.15.41:027][  0]SourceControl: Source control is disabled
+[2020.04.02-18.15.41:027][  0]SourceControl: Source control is disabled
+[2020.04.02-18.15.41:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-18.15.41:183][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-18.15.41:892][  0]LogEngine: Initializing Engine...
+[2020.04.02-18.15.41:893][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-18.15.41:894][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.02-18.15.42:091][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-18.15.42:101][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-18.15.42:123][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.15.42:161][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-18.15.42:162][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-18.15.42:238][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.02-18.15.42:244][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-18.15.42:261][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-18.15.42:281][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-18.15.42:297][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-18.15.42:416][  0]LocalizationService: Localization service is disabled
+[2020.04.02-18.15.42:764][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/' took 0.01s
+[2020.04.02-18.15.42:764][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-18.15.42:764][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-18.15.42:943][  0]SourceControl: Source control is disabled
+[2020.04.02-18.15.43:018][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UE_4.22/FeaturePacks/StarterContent.upack)
+[2020.04.02-18.15.43:110][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.04.02-18.15.43:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.04.02-18.15.43:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.04.02-18.15.43:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.04.02-18.15.43:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.04.02-18.15.43:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.04.02-18.15.43:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.04.02-18.15.43:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.04.02-18.15.43:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.04.02-18.15.43:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.04.02-18.15.43:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.04.02-18.15.43:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../GameJams/unga/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.04.02-18.15.43:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.04.02-18.15.43:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.04.02-18.15.43:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.04.02-18.15.43:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.04.02-18.15.43:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.04.02-18.15.43:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.04.02-18.15.43:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Fire01.uasset"
+[2020.04.02-18.15.43:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.04.02-18.15.43:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.04.02-18.15.43:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.04.02-18.15.43:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Light01.uasset"
+[2020.04.02-18.15.43:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.04.02-18.15.43:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Light02.uasset"
+[2020.04.02-18.15.43:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.04.02-18.15.43:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.04.02-18.15.43:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.04.02-18.15.43:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.04.02-18.15.43:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.04.02-18.15.43:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.04.02-18.15.44:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.04.02-18.15.44:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.04.02-18.15.44:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.04.02-18.15.44:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Steam01.uasset"
+[2020.04.02-18.15.44:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.04.02-18.15.44:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.04.02-18.15.44:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.04.02-18.15.44:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.04.02-18.15.44:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.04.02-18.15.44:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.04.02-18.15.44:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.04.02-18.15.44:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.04.02-18.15.44:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.04.02-18.15.44:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.04.02-18.15.44:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.04.02-18.15.44:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.04.02-18.15.44:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.04.02-18.15.44:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.04.02-18.15.44:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.04.02-18.15.44:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.04.02-18.15.44:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../GameJams/unga/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.04.02-18.15.45:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../GameJams/unga/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.04.02-18.15.45:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../GameJams/unga/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.04.02-18.15.45:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../GameJams/unga/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.04.02-18.15.45:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../GameJams/unga/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.04.02-18.15.45:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../GameJams/unga/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.04.02-18.15.45:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../GameJams/unga/Content/StarterContent/Maps/StarterMap.umap"
+[2020.04.02-18.15.46:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../GameJams/unga/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.04.02-18.15.46:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.04.02-18.15.46:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.04.02-18.15.46:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.04.02-18.15.46:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.04.02-18.15.46:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.04.02-18.15.46:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.04.02-18.15.46:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.04.02-18.15.46:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.04.02-18.15.46:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.04.02-18.15.46:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.04.02-18.15.46:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.04.02-18.15.46:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.04.02-18.15.46:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.04.02-18.15.46:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.04.02-18.15.46:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.04.02-18.15.46:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.04.02-18.15.46:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.04.02-18.15.46:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.04.02-18.15.46:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.04.02-18.15.46:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.04.02-18.15.46:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.04.02-18.15.46:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.04.02-18.15.46:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.04.02-18.15.46:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.04.02-18.15.46:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.04.02-18.15.46:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.04.02-18.15.46:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.04.02-18.15.46:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.04.02-18.15.46:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.04.02-18.15.46:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.04.02-18.15.46:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.04.02-18.15.47:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.04.02-18.15.47:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.04.02-18.15.47:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.04.02-18.15.47:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.04.02-18.15.47:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.04.02-18.15.47:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.04.02-18.15.47:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.04.02-18.15.47:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.04.02-18.15.47:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.04.02-18.15.47:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.04.02-18.15.47:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.04.02-18.15.47:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../GameJams/unga/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.04.02-18.15.47:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.04.02-18.15.47:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.04.02-18.15.47:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.04.02-18.15.47:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.04.02-18.15.47:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.04.02-18.15.47:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.04.02-18.15.47:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.04.02-18.15.47:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.04.02-18.15.47:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.04.02-18.15.47:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.04.02-18.15.47:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.04.02-18.15.47:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.04.02-18.15.47:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.04.02-18.15.47:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.04.02-18.15.47:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.04.02-18.15.47:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../GameJams/unga/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.04.02-18.15.47:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.04.02-18.15.47:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.04.02-18.15.47:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.04.02-18.15.47:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.04.02-18.15.47:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.04.02-18.15.47:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Door.uasset"
+[2020.04.02-18.15.47:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.04.02-18.15.47:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.04.02-18.15.47:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.04.02-18.15.47:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.04.02-18.15.47:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.04.02-18.15.47:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.04.02-18.15.47:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.04.02-18.15.48:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.04.02-18.15.48:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.04.02-18.15.48:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.04.02-18.15.48:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.04.02-18.15.48:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.04.02-18.15.48:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.04.02-18.15.48:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.04.02-18.15.48:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.04.02-18.15.48:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.04.02-18.15.48:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.04.02-18.15.48:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.04.02-18.15.48:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.04.02-18.15.48:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.04.02-18.15.48:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.04.02-18.15.48:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.04.02-18.15.48:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.04.02-18.15.48:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.04.02-18.15.48:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../GameJams/unga/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.04.02-18.15.48:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.04.02-18.15.48:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.04.02-18.15.48:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.04.02-18.15.48:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.04.02-18.15.48:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.04.02-18.15.48:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.04.02-18.15.48:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.04.02-18.15.48:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.04.02-18.15.48:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.04.02-18.15.48:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.04.02-18.15.48:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.04.02-18.15.48:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.04.02-18.15.48:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.04.02-18.15.48:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.04.02-18.15.48:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.04.02-18.15.48:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.04.02-18.15.48:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.04.02-18.15.48:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.04.02-18.15.48:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../GameJams/unga/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.04.02-18.15.48:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.04.02-18.15.48:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.04.02-18.15.48:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.04.02-18.15.49:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.04.02-18.15.49:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.04.02-18.15.49:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.04.02-18.15.49:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.04.02-18.15.49:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.04.02-18.15.49:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.04.02-18.15.49:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.04.02-18.15.49:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.04.02-18.15.49:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.04.02-18.15.49:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.04.02-18.15.49:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.04.02-18.15.49:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.04.02-18.15.49:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.04.02-18.15.49:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.04.02-18.15.49:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.04.02-18.15.49:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.04.02-18.15.49:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.04.02-18.15.49:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.04.02-18.15.49:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.04.02-18.15.49:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.04.02-18.15.50:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.04.02-18.15.50:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.04.02-18.15.50:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.04.02-18.15.50:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.04.02-18.15.50:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.04.02-18.15.50:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.04.02-18.15.50:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.04.02-18.15.50:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.04.02-18.15.50:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.04.02-18.15.51:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.04.02-18.15.51:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.04.02-18.15.51:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.04.02-18.15.51:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.04.02-18.15.51:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.04.02-18.15.51:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.04.02-18.15.51:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.04.02-18.15.51:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.04.02-18.15.51:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.04.02-18.15.51:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.04.02-18.15.51:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.04.02-18.15.51:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.04.02-18.15.51:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.04.02-18.15.51:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.04.02-18.15.51:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.04.02-18.15.51:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.04.02-18.15.52:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.04.02-18.15.52:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.04.02-18.15.52:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.04.02-18.15.52:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.04.02-18.15.52:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.04.02-18.15.52:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.04.02-18.15.52:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.04.02-18.15.52:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.04.02-18.15.52:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.04.02-18.15.52:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.04.02-18.15.53:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.04.02-18.15.53:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.04.02-18.15.53:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.04.02-18.15.53:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.04.02-18.15.53:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.04.02-18.15.53:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.04.02-18.15.53:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.04.02-18.15.53:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.04.02-18.15.53:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.04.02-18.15.53:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.04.02-18.15.53:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.04.02-18.15.54:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.04.02-18.15.54:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.04.02-18.15.54:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.04.02-18.15.54:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.04.02-18.15.54:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.04.02-18.15.54:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.04.02-18.15.54:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.04.02-18.15.55:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.04.02-18.15.55:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.04.02-18.15.55:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.04.02-18.15.55:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.04.02-18.15.55:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.04.02-18.15.55:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.04.02-18.15.55:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.04.02-18.15.55:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.04.02-18.15.56:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.04.02-18.15.56:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.04.02-18.15.56:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.04.02-18.15.56:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.04.02-18.15.56:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.04.02-18.15.56:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.04.02-18.15.56:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.04.02-18.15.56:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.04.02-18.15.56:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.04.02-18.15.56:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.04.02-18.15.56:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.04.02-18.15.56:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.04.02-18.15.56:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.04.02-18.15.56:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.04.02-18.15.56:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.04.02-18.15.56:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.04.02-18.15.57:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.04.02-18.15.57:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.04.02-18.15.57:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../GameJams/unga/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.04.02-18.15.57:723][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-18.15.57:912][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../GameJams/unga/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.04.02-18.15.57:992][  0]LogSavePackage: Moving '../../../../GameJams/unga/Saved/Floor_400x4007C4D86EA4A0B8C912EDD26B6CB01A524.tmp' to '../../../../GameJams/unga/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.04.02-18.15.58:008][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.04.02-18.15.58:011][  0]Cmd: MAP LOAD FILE="../../../../GameJams/unga/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-18.15.58:012][  0]LightingResults: New page: Lighting Build
+[2020.04.02-18.15.58:013][  0]MapCheck: New page: Map Check
+[2020.04.02-18.15.58:013][  0]LightingResults: New page: Lighting Build
+[2020.04.02-18.15.58:045][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.02-18.15.59:093][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.15.59:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-18.15.59:237][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.02-18.15.59:237][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-18.15.59:237][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.04.02-18.15.59:237][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.225
+[2020.04.02-18.16.00:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.16.00:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.16.00:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.16.00:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.16.00:136][  0]LogCollectionManager: Loaded 0 collections in 0.001002 seconds
+[2020.04.02-18.16.00:401][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Saved/Collections/' took 0.01s
+[2020.04.02-18.16.00:401][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/Developers/Donnie/Collections/' took 0.01s
+[2020.04.02-18.16.00:401][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/Collections/' took 0.01s
+[2020.04.02-18.16.00:401][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.02-18.16.00:410][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2732 classes and 659 folders.
+[2020.04.02-18.16.00:421][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.02-18.16.00:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-18.16.00:477][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.02-18.16.00:512][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.02-18.16.00:842][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-18.16.00:844][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-18.16.00:865][  0]LogSlate: Took 0.015990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-18.16.01:391][  0]LogRenderer: Reallocating scene render targets to support 1092x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-18.16.01:459][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-18.16.01:520][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.02-18.16.01:520][  0]LogLoad: (Engine Initialization) Total time: 27.77 seconds
+[2020.04.02-18.16.01:520][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-18.16.01:669][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-18.16.06:938][548]LogAssetRegistry: Asset discovery search completed in 27.7043 seconds
+[2020.04.02-18.16.06:939][548]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.02-18.16.06:939][548]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.04.02-18.16.22:377][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.16.27:601][480]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-18.16.27:607][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.04.02-18.16.28:060][480]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.02-18.16.29:270][480]LogSlate: Took 0.005950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-18.16.29:624][481]LogSlate: Took 0.016117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.02-18.16.39:591][626]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2020.04.02-18.16.39:594][626]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2020.04.02-18.16.40:785][749]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.02-18.16.54:158][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.16.54:171][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.16.54:184][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.02-18.16.54:185][ 23]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.04.02-18.16.54:679][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.02-18.16.54:679][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 494 ms (1 blueprints)
+[2020.04.02-18.16.54:691][ 23]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:16:54 AM)
+[2020.04.02-18.16.54:737][ 23]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.16.54:750][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012789s)
+[2020.04.02-18.16.54:750][ 23]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.16.54:751][ 23]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2020.04.02-18.16.54:751][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014064s)
+[2020.04.02-18.16.54:787][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.02-18.16.54:838][ 23]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.16.54:858][ 23]LogInit: FAudioDevice initialized.
+[2020.04.02-18.16.54:909][ 23]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.16.54:917][ 23]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.16.54
+[2020.04.02-18.16.54:917][ 23]LogWorld: Bringing up level for play took: 0.001660
+[2020.04.02-18.16.55:037][ 23]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.04.02-18.16.55:038][ 23]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.04.02-18.16.55:039][ 23]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.02-18.16.55:039][ 23]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.029
+[2020.04.02-18.16.55:039][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.17.03:002][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.17.03:002][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.17.03:030][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.17.03:030][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.17.03:074][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.17.03:095][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.02-18.17.03:112][930]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.02-18.17.03:945][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.26.22:302][776]LogSlate: Took 0.022139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.02-18.27.34:784][444]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.27.35:026][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.02-18.28.41:308][558]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.28.41:549][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.02-18.30.40:901][241]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.30.41:138][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.02-18.30.43:885][552]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.30.43:906][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.30.43:906][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.30.43:906][552]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:30:43 AM)
+[2020.04.02-18.30.43:906][552]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.30.43:916][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009220s)
+[2020.04.02-18.30.43:916][552]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.30.43:917][552]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2020.04.02-18.30.43:917][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010097s)
+[2020.04.02-18.30.43:955][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.02-18.30.43:973][552]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.30.43:990][552]LogInit: FAudioDevice initialized.
+[2020.04.02-18.30.44:037][552]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.30.44:038][552]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.30.44
+[2020.04.02-18.30.44:039][552]LogWorld: Bringing up level for play took: 0.001519
+[2020.04.02-18.30.44:051][552]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.983
+[2020.04.02-18.30.44:051][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.30.50:255][208]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0655
+[2020.04.02-18.30.50:255][208]PIE: Error: Infinite loop detected. Blueprint:  FirstPersonCharacter Function:  Outputs Call Stack:  Show
+[2020.04.02-18.30.50:256][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.30.50:256][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.30.50:292][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.30.50:292][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.30.50:333][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.30.50:339][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.02-18.30.50:348][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.30.50:385][209]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.02-18.31.00:392][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.31.25:726][770]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.31.25:958][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.02-18.31.27:432][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.31.27:482][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.31.27:505][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.31.27:505][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.31.27:505][933]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:31:27 AM)
+[2020.04.02-18.31.27:505][933]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.31.27:514][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008344s)
+[2020.04.02-18.31.27:514][933]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.31.27:514][933]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2020.04.02-18.31.27:514][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009154s)
+[2020.04.02-18.31.27:553][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.02-18.31.27:570][933]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.31.27:586][933]LogInit: FAudioDevice initialized.
+[2020.04.02-18.31.27:617][933]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.31.27:619][933]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.31.27
+[2020.04.02-18.31.27:619][933]LogWorld: Bringing up level for play took: 0.001547
+[2020.04.02-18.31.27:632][933]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.564
+[2020.04.02-18.31.27:632][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.31.29:322][ 50]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0672
+[2020.04.02-18.31.29:323][ 50]PIE: Error: Infinite loop detected. Blueprint:  FirstPersonCharacter Function:  Outputs Call Stack:  Show
+[2020.04.02-18.31.29:323][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.31.29:324][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.31.29:359][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.31.29:359][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.31.29:401][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.31.29:405][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.02-18.31.29:414][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.31.29:449][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.02-18.31.32:295][391]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-18.31.32:299][391]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-18.31.34:357][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.33.56:100][117]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.33.56:336][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.02-18.33.58:135][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.33.58:185][321]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.33.58:202][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.33.58:202][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.33.58:202][321]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:33:58 AM)
+[2020.04.02-18.33.58:202][321]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.33.58:210][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008352s)
+[2020.04.02-18.33.58:211][321]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.33.58:211][321]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2020.04.02-18.33.58:211][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009224s)
+[2020.04.02-18.33.58:250][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.02-18.33.58:268][321]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.33.58:284][321]LogInit: FAudioDevice initialized.
+[2020.04.02-18.33.58:315][321]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.33.58:317][321]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.33.58
+[2020.04.02-18.33.58:317][321]LogWorld: Bringing up level for play took: 0.001564
+[2020.04.02-18.33.58:330][321]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.738
+[2020.04.02-18.33.58:330][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.34.24:269][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.34.24:269][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.34.24:302][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.34.24:303][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.34.24:342][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.34.24:347][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.02-18.34.24:375][432]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.02-18.34.27:217][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.35.36:106][773]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.35.36:340][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.02-18.35.38:075][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.35.38:150][977]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.35.38:167][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.35.38:167][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.35.38:167][977]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:35:38 AM)
+[2020.04.02-18.35.38:167][977]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.35.38:176][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008356s)
+[2020.04.02-18.35.38:176][977]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.35.38:176][977]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2020.04.02-18.35.38:176][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009295s)
+[2020.04.02-18.35.38:216][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.02-18.35.38:234][977]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.35.38:250][977]LogInit: FAudioDevice initialized.
+[2020.04.02-18.35.38:279][977]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.35.38:281][977]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.35.38
+[2020.04.02-18.35.38:281][977]LogWorld: Bringing up level for play took: 0.001704
+[2020.04.02-18.35.38:294][977]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.774
+[2020.04.02-18.35.38:294][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.36.10:536][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.36.10:537][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.36.10:570][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.36.10:571][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.36.10:609][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.36.10:614][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.02-18.36.10:645][842]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.02-18.36.11:791][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.38.30:562][687]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.38.30:800][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.02-18.38.32:488][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.38.32:511][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.38.32:511][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.38.32:511][876]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:38:32 AM)
+[2020.04.02-18.38.32:511][876]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.38.32:520][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008766s)
+[2020.04.02-18.38.32:521][876]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.38.32:521][876]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.04.02-18.38.32:521][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009678s)
+[2020.04.02-18.38.32:561][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.04.02-18.38.32:578][876]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.38.32:594][876]LogInit: FAudioDevice initialized.
+[2020.04.02-18.38.32:625][876]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.38.32:627][876]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.38.32
+[2020.04.02-18.38.32:627][876]LogWorld: Bringing up level for play took: 0.001724
+[2020.04.02-18.38.32:640][876]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.429
+[2020.04.02-18.38.32:640][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.38.50:333][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.38.56:006][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.38.56:006][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.38.56:047][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.38.56:048][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.38.56:084][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.38.56:088][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.02-18.38.56:160][518]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.02-18.39.56:673][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.02-18.39.57:152][476]LogSavePackage: Moving '../../../../GameJams/unga/Saved/FirstPersonExampleMap_Auto1A8E43C56470156D407A99ABE2767FA43.tmp' to '../../../../GameJams/unga/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.04.02-18.39.57:158][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.518
+[2020.04.02-18.39.57:158][476]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.518
+[2020.04.02-18.39.57:160][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.02-18.39.57:176][476]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.04.02-18.39.57:176][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.02-18.39.57:319][476]LogSavePackage: Moving '../../../../GameJams/unga/Saved/FirstPersonCharacter_Auto129352F904EC19DC7B3180EAC38E261C6.tmp' to '../../../../GameJams/unga/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.04.02-18.39.57:320][476]LogFileHelpers: Auto-saving content packages took 0.161
+[2020.04.02-18.40.15:674][684]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.02-18.40.15:910][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.02-18.40.18:189][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.40.18:255][948]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.40.18:273][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.40.18:273][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.40.18:273][948]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:40:18 AM)
+[2020.04.02-18.40.18:273][948]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.40.18:281][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007552s)
+[2020.04.02-18.40.18:281][948]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.40.18:281][948]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2020.04.02-18.40.18:281][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008337s)
+[2020.04.02-18.40.18:320][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.02-18.40.18:337][948]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.40.18:353][948]LogInit: FAudioDevice initialized.
+[2020.04.02-18.40.18:381][948]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.40.18:383][948]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.40.18
+[2020.04.02-18.40.18:383][948]LogWorld: Bringing up level for play took: 0.001639
+[2020.04.02-18.40.18:396][948]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.672
+[2020.04.02-18.40.18:396][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.40.42:044][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.41.06:812][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.41.06:945][325]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.04.02-18.41.11:078][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.11:078][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.41.11:120][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.41.11:121][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.11:163][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.41.11:168][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.02-18.41.11:189][748]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.02-18.41.11:854][811]LogRenderer: Reallocating scene render targets to support 1136x692 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-18.41.37:432][842]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.04.02-18.41.37:655][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.02-18.41.39:699][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.02-18.41.39:710][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.39:710][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-18.41.39:710][ 80]PIE: New page: PIE session: FirstPersonExampleMap (Apr 2, 2020, 10:41:39 AM)
+[2020.04.02-18.41.39:710][ 80]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.02-18.41.39:718][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007821s)
+[2020.04.02-18.41.39:719][ 80]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-18.41.39:719][ 80]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2020.04.02-18.41.39:719][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008750s)
+[2020.04.02-18.41.39:762][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.02-18.41.39:780][ 80]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-18.41.39:795][ 80]LogInit: FAudioDevice initialized.
+[2020.04.02-18.41.39:822][ 80]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.02-18.41.39:824][ 80]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.04.02-14.41.39
+[2020.04.02-18.41.39:824][ 80]LogWorld: Bringing up level for play took: 0.001832
+[2020.04.02-18.41.39:837][ 80]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.769
+[2020.04.02-18.41.39:837][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.48:026][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.48:026][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.41.48:059][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.41.48:059][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.02-18.41.48:102][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.41.48:106][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.02-18.41.48:143][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.02-18.41.49:078][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.02-18.41.49:084][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.41.49:132][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.02-18.41.49:367][170]LogSavePackage: Moving '../../../../GameJams/unga/Saved/FirstPersonExampleMap99272FDE4ED60D10F409E3A8DA2C865D.tmp' to '../../../../GameJams/unga/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.02-18.41.49:385][170]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.293
+[2020.04.02-18.41.49:400][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../GameJams/unga/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.04.02-18.41.49:476][170]LogSavePackage: Moving '../../../../GameJams/unga/Saved/FirstPersonCharacterEC45B7064D88C33A09E9149F0B2B0B0A.tmp' to '../../../../GameJams/unga/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.02-18.41.49:491][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonProjectile" FILE="../../../../GameJams/unga/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" SILENT=true
+[2020.04.02-18.41.49:521][170]LogSavePackage: Moving '../../../../GameJams/unga/Saved/FirstPersonProjectile2D29EF0849292D4AF6EA1B90F55A8D4F.tmp' to '../../../../GameJams/unga/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.04.02-18.41.50:211][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.42.36:850][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.42.36:910][705]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.04.02-18.42.37:131][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.02-18.42.37:815][758]LogUObjectArray: Warning: Other object in slot
+[2020.04.02-18.42.37:824][758]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-18.42.39:190][758]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.365 s
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: 
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: Stack: 
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffccc3dc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffccbc56fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffccbc64e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcc9f837f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcc8af5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcc8ab1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcd07c5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcd09b15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcd080d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcd07eaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffcd07e0287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd13ecb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd13ebef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd13ecd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd13ebc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd2dba5c0d USER32.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd2dba5602 USER32.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ffd13ece946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ff638935d3e UE4Editor.exe!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ff63894554c UE4Editor.exe!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ff6389455ca UE4Editor.exe!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ff63895316c UE4Editor.exe!UnknownFunction []
+[2020.04.02-18.42.39:190][758]LogOutputDevice: Error: [Callstack] 0x00007ff638955b8e UE4Editor.exe!UnknownFunction []
+[2020.04.02-18.42.39:191][758]LogOutputDevice: Error: [Callstack] 0x00007ffd2e2d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-18.42.39:191][758]LogOutputDevice: Error: [Callstack] 0x00007ffd2eacced1 ntdll.dll!UnknownFunction []
+[2020.04.02-18.42.39:191][758]LogOutputDevice: Error: 
+[2020.04.02-18.42.39:261][758]LogStats:                SubmitErrorReport -  0.000 s
