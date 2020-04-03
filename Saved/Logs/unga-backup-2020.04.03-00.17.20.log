@@ -1,0 +1,1300 @@
+﻿Log file open, 04/02/20 17:15:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unga
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.400020
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] D:/GameJams/unga/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=DonardGrey -epicuserid=b197333d71774c16b886d2d9856eb5ad -epiclocale=en
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.02-21.15.30:617][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-21.15.30:617][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-21.15.30:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:617][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-21.15.30:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:618][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:620][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-21.15.30:620][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-21.15.30:621][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-21.15.30:621][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-21.15.30:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-21.15.30:636][  0]LogHAL: Display: Platform has ~ 16 GB [17124491264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-21.15.30:636][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.02-21.15.30:636][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-21.15.30:636][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:636][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-21.15.30:636][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-21.15.30:636][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJams/unga/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-21.15.30:637][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-21.15.30:638][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-21.15.30:638][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-21.15.30:638][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJams/unga/Saved/Config/Windows/Engine.ini]
+[2020.04.02-21.15.30:638][  0]LogInit: Computer: DESKTOP-MN3TC04
+[2020.04.02-21.15.30:638][  0]LogInit: User: Donnie
+[2020.04.02-21.15.30:638][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.02-21.15.30:638][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-21.15.30:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.02-21.15.30:638][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-21.15.30:638][  0]LogMemory: Process Physical Memory: 97.62 MB used, 97.63 MB peak
+[2020.04.02-21.15.30:638][  0]LogMemory: Process Virtual Memory: 89.77 MB used, 89.77 MB peak
+[2020.04.02-21.15.30:638][  0]LogMemory: Physical Memory: 5299.20 MB used,  11031.99 MB free, 16331.19 MB total
+[2020.04.02-21.15.30:638][  0]LogMemory: Virtual Memory: 4660.49 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.02-21.15.30:660][  0]LogInit: Using OS detected language (en-US).
+[2020.04.02-21.15.30:660][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.02-21.15.30:661][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.02-21.15.30:804][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-21.15.30:823][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-21.15.30:823][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-21.15.31:074][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-21.15.31:074][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-21.15.31:149][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.04.02-21.15.31:149][  0]LogD3D11RHI:       5980/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.02-21.15.31:151][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-21.15.31:151][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-21.15.31:151][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-21.15.31:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-21.15.31:158][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-21.15.31:158][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-21.15.31:158][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.04.02-21.15.31:159][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-21.15.31:159][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-21.15.31:159][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-21.15.31:159][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.02-21.15.31:159][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.04.02-21.15.31:159][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.04.02-21.15.31:159][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.04.02-21.15.31:159][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.04.02-21.15.31:207][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-21.15.31:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-21.15.31:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-21.15.31:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.02-21.15.31:230][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.02-21.15.31:487][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.02-21.15.31:500][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.02-21.15.31:514][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.02-21.15.31:527][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.02-21.15.31:541][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.02-21.15.31:555][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.02-21.15.31:568][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-21.15.31:581][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.02-21.15.31:588][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.02-21.15.31:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-21.15.31:676][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.02-21.15.31:726][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.02-21.15.31:726][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.02-21.15.31:750][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.02-21.15.31:750][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.02-21.15.31:763][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.02-21.15.31:776][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-21.15.31:788][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.02-21.15.31:802][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.02-21.15.31:847][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.02-21.15.31:847][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.02-21.15.31:847][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-21.15.31:855][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-21.15.31:890][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../GameJams/unga/Intermediate/Shaders/WorkingDirectory/14500/).
+[2020.04.02-21.15.31:890][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Donnie/AppData/Local/Temp/UnrealShaderWorkingDir/8FB38D5E40916AFAE94CF4BF510B0C66/'.
+[2020.04.02-21.15.31:892][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-21.15.31:892][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-21.15.31:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-21.15.32:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-21.15.32:450][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.02-21.15.32:451][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.02-21.15.32:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GameJams/unga/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-21.15.32:451][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-21.15.32:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GameJams/unga/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-21.15.32:451][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-21.15.32:463][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-21.15.32:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-21.15.32:463][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-21.15.32:475][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Donnie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-21.15.32:475][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-21.15.32:475][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-21.15.32:496][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-21.15.32:497][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.02-21.15.32:498][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-21.15.32:585][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2020.04.02-21.15.32:912][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-21.15.33:030][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-21.15.33:030][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-21.15.33:030][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-21.15.33:030][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-21.15.33:030][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-21.15.33:039][  0]LogNetVersion: unga 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2805561233)
+[2020.04.02-21.15.33:405][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.046519 seconds
+[2020.04.02-21.15.33:412][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.02-21.15.33:412][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.02-21.15.33:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-21.15.34:356][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-21.15.34:369][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-21.15.34:714][  0]SourceControl: Source control is disabled
+[2020.04.02-21.15.34:714][  0]SourceControl: Source control is disabled
+[2020.04.02-21.15.34:716][  0]SourceControl: Source control is disabled
+[2020.04.02-21.15.34:717][  0]SourceControl: Source control is disabled
+[2020.04.02-21.15.34:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-21.15.34:879][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-21.15.35:603][  0]LogEngine: Initializing Engine...
+[2020.04.02-21.15.35:604][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-21.15.35:605][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.02-21.15.35:795][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-21.15.35:804][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-21.15.35:827][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-21.15.35:862][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-21.15.35:863][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-21.15.35:942][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Donnie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.02-21.15.35:949][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-21.15.35:965][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-21.15.35:981][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-21.15.35:997][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-21.15.36:056][  0]LocalizationService: Localization service is disabled
+[2020.04.02-21.15.36:312][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/' took 0.01s
+[2020.04.02-21.15.36:312][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-21.15.36:312][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-21.15.36:472][  0]SourceControl: Source control is disabled
+[2020.04.02-21.15.36:472][  0]Cmd: MAP LOAD FILE="../../../../GameJams/unga/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-21.15.36:473][  0]LightingResults: New page: Lighting Build
+[2020.04.02-21.15.36:474][  0]MapCheck: New page: Map Check
+[2020.04.02-21.15.36:474][  0]LightingResults: New page: Lighting Build
+[2020.04.02-21.15.36:514][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.02-21.15.36:776][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.02-21.15.36:789][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-21.15.36:822][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.04.02-21.15.36:822][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-21.15.36:822][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2020.04.02-21.15.36:822][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.350
+[2020.04.02-21.15.36:937][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-21.15.36:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-21.15.36:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-21.15.36:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-21.15.36:961][  0]LogCollectionManager: Loaded 0 collections in 0.000966 seconds
+[2020.04.02-21.15.36:988][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Saved/Collections/' took 0.01s
+[2020.04.02-21.15.36:988][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/Developers/Donnie/Collections/' took 0.01s
+[2020.04.02-21.15.36:988][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/unga/Content/Collections/' took 0.00s
+[2020.04.02-21.15.36:988][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.02-21.15.36:997][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2741 classes and 672 folders.
+[2020.04.02-21.15.37:001][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.02-21.15.37:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.02-21.15.37:059][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.02-21.15.37:063][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.02-21.15.37:099][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-21.15.37:101][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-21.15.37:105][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-21.15.37:158][  0]LogRenderer: Reallocating scene render targets to support 1092x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-21.15.37:279][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.02-21.15.37:279][  0]LogLoad: (Engine Initialization) Total time: 9.10 seconds
+[2020.04.02-21.15.37:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-21.15.37:315][  0]LogAssetRegistry: Asset discovery search completed in 4.7525 seconds
+[2020.04.02-21.15.37:317][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.04.02-21.15.37:317][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.04.02-21.15.37:319][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-21.15.37:342][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-21.15.38:636][  4]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-21.18.50:307][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.18.55:320][154]LogSlate: Window 'Plugins' being destroyed
+[2020.04.02-21.18.55:326][154]LogSlate: Window 'Plugins' being destroyed
+[2020.04.02-21.18.55:327][154]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.04.02-21.19.05:984][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.07:276][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.08:873][671]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-21.19.21:635][118]LogMaterial: Display: Missing cached shader map for material M_MonitorScreen, compiling. 
+[2020.04.02-21.19.21:730][118]LogMaterial: Display: Missing cached shader map for material M_ConcertClientPresence, compiling. 
+[2020.04.02-21.19.21:774][118]LogStaticMesh: Building static mesh MonitorMesh...
+[2020.04.02-21.19.21:841][118]LogStaticMesh: Built static mesh [0.07s] /ConcertSyncClient/MonitorMesh.MonitorMesh
+[2020.04.02-21.19.21:882][118]LogMaterial: Display: Missing cached shader map for material M_UE4Head_Body, compiling. 
+[2020.04.02-21.19.21:953][118]LogStaticMesh: Building static mesh HeadMesh...
+[2020.04.02-21.19.21:964][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.22:007][118]LogStaticMesh: Built static mesh [0.05s] /ConcertSyncClient/HeadMesh.HeadMesh
+[2020.04.02-21.19.22:065][118]LogMaterial: Display: Missing cached shader map for material M_UE4Head_Desktop, compiling. 
+[2020.04.02-21.19.22:086][118]LogMaterial: Display: Missing cached shader map for material M_ConcertClientPresence-Desktop, compiling. 
+[2020.04.02-21.19.22:165][118]LogStaticMesh: Building static mesh SM_Hand-Lft-Mesh...
+[2020.04.02-21.19.22:177][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.22:178][118]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.04.02-21.19.22:254][118]LogStaticMesh: Built static mesh [0.09s] /ConcertSyncClient/SM_Hand-Lft-Mesh.SM_Hand-Lft-Mesh
+[2020.04.02-21.19.22:326][118]LogStaticMesh: Building static mesh SM_GenericHMD...
+[2020.04.02-21.19.22:338][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.22:413][118]LogStaticMesh: Built static mesh [0.09s] /ConcertSyncClient/SM_GenericHMD.SM_GenericHMD
+[2020.04.02-21.19.40:652][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.19.51:280][756]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-21.21.02:178][264]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-21.21.02:185][264]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-21.21.23:134][858]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.04.02-21.21.23:199][858]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.04.02-21.21.40:024][672]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-21.21.42:253][909]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-21.21.42:260][909]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-21.21.47:812][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.21.49:959][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.21.50:958][910]LogConcert: Display: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Remote endpoint '77EF972443F7AF6620D0208BE6F9C374' discovered.
+[2020.04.02-21.21.50:962][911]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-21.21.59:236][892]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-21.21.59:244][892]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-21.23.18:585][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.23.19:668][676]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-21.23.19:677][677]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-21.23.37:684][777]LogConcert: [Pending] Creating Session 'UngaBunga_TWIB'... - Validating Workspace...
+[2020.04.02-21.23.37:684][777]LogSlate: Window 'Create A Session' being destroyed
+[2020.04.02-21.23.37:790][785]LogConcert: [Pending] Creating Session 'UngaBunga_TWIB'... - Attempting Remote Connection...
+[2020.04.02-21.23.37:845][788]SourceControl: Source control is disabled
+[2020.04.02-21.23.37:845][788]SourceControl: Source control is disabled
+[2020.04.02-21.23.38:470][788]LogMaterial: Display: Missing cached shader map for material M_CameraFacing, compiling. 
+[2020.04.02-21.23.38:486][788]LogConcert: Display: Initialized Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.23.38:486][788]LogConcert: Display: Connecting to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.23.38:510][789]LogConcert: Display: UngaBunga_TWIB (347CC454436C10758AA90B82E498F456): Remote endpoint '3290EA5049048E3653F23A95DCAE1E98' discovered.
+[2020.04.02-21.23.38:510][789]LogConcert: [Success] Created Session 'UngaBunga_TWIB'
+[2020.04.02-21.23.38:576][794]LogConcert: Display: Connected to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.23.38:578][794]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-21.23.42:941][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.23.56:552][820]LogSlate: Window 'Multi-User Session' being destroyed
+[2020.04.02-21.23.56:560][820]LogSlate: Window 'Multi-User Session' being destroyed
+[2020.04.02-21.23.57:037][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.25.41:840][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.25.50:094][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.25.53:883][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.25.59:101][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.25.59:151][579]LogConcert: Display: Disconnected from Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.25.59:151][579]SourceControl: Source control is disabled
+[2020.04.02-21.25.59:153][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-21.25.59:153][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-21.25.59:154][579]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-21.25.59:158][579]LogConcert: Display: Shutdown Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.25.59:878][579]LogConcert: Display: UngaBunga_TWIB (347CC454436C10758AA90B82E498F456): Remote endpoint '3290EA5049048E3653F23A95DCAE1E98' timed-out.
+[2020.04.02-21.26.06:288][330]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Validating Workspace...
+[2020.04.02-21.26.06:396][339]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Attempting Remote Connection...
+[2020.04.02-21.26.06:424][340]SourceControl: Source control is disabled
+[2020.04.02-21.26.06:424][340]SourceControl: Source control is disabled
+[2020.04.02-21.26.06:424][340]LogConcert: Display: Initialized Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.26.06:424][340]LogConcert: Display: Connecting to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.26.06:436][341]LogConcert: Display: UngaBunga_TWIB (668BDA5246D442A7C61B27835DE2A44E): Remote endpoint '3290EA5049048E3653F23A95DCAE1E98' discovered.
+[2020.04.02-21.26.06:486][343]LogConcert: Display: Connected to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-21.26.06:488][343]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-21.26.06:489][343]LogConcert: Display: Activity Feed: Donnie left the session.
+[2020.04.02-21.26.06:490][343]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-21.26.06:546][344]LogConcert: [Success] Connected to Session 'UngaBunga_TWIB'
+[2020.04.02-21.26.10:154][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.26.10:896][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.26.13:651][167]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.04.02-21.26.13:656][167]LogConcert: Error: [Failure] Failed to Launch the Unreal Multi-User Server - An Unreal Multi-User Server instance is already running.
+[2020.04.02-21.26.25:939][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.26.26:849][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.26.42:457][425]LogSlate: Window 'Create A Session' being destroyed
+[2020.04.02-21.26.49:606][217]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-21.26.49:616][217]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-21.36.43:237][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.36.44:390][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.37.05:908][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-21.40.27:932][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.47.25:821][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-21.47.28:582][388]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-21.47.28:598][390]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-21.47.30:975][669]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-21.47.30:982][669]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.09.35:325][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.02-22.09.36:318][521]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.04.02-22.09.38:131][521]LogSlate: Took 0.009055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-22.09.41:972][781]LogRenderer: Reallocating scene render targets to support 1136x692 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-22.09.42:368][809]LogSlate: Took 0.009984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.02-22.09.46:725][222]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.04.02-22.09.46:732][222]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.04.02-22.11.01:705][993]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-22.11.01:714][994]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-22.11.43:900][970]LogSlate: Window 'Plugins' being destroyed
+[2020.04.02-22.11.43:907][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.04.02-22.11.47:514][219]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-22.12.33:936][403]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.12.33:943][403]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.12.37:036][748]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.12.37:043][748]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.12.49:075][ 68]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-22.12.50:795][222]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.12.50:802][222]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.14.17:588][505]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-22.14.17:597][506]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-22.35.50:971][227]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.35.50:978][227]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.35.57:193][529]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-22.35.57:281][539]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.35.57:289][539]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.35.58:347][654]LogConcert: Display: Disconnected from Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.35.58:347][654]SourceControl: Source control is disabled
+[2020.04.02-22.35.58:349][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-22.35.58:349][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-22.35.58:349][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-22.35.58:350][654]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-22.35.58:354][654]LogConcert: Display: Shutdown Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.35.58:648][654]LogConcert: Display: UngaBunga_TWIB (668BDA5246D442A7C61B27835DE2A44E): Remote endpoint '3290EA5049048E3653F23A95DCAE1E98' timed-out.
+[2020.04.02-22.36.03:390][208]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.36.03:397][208]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.36.05:882][494]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.04.02-22.36.05:911][494]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.04.02-22.36.16:769][586]LogConcert: Display: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Remote endpoint '86E8B35C4DEB490DD52A07A1D627D341' discovered.
+[2020.04.02-22.36.16:769][586]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-22.36.32:034][316]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.36.32:042][316]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.02-22.36.40:123][196]LogSlate: Window 'Create A Session' being destroyed
+[2020.04.02-22.36.42:772][490]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Validating Workspace...
+[2020.04.02-22.36.42:882][498]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Attempting Remote Connection...
+[2020.04.02-22.36.42:911][499]SourceControl: Source control is disabled
+[2020.04.02-22.36.42:911][499]SourceControl: Source control is disabled
+[2020.04.02-22.36.42:911][499]LogConcert: Display: Initialized Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.36.42:911][499]LogConcert: Display: Connecting to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.36.42:924][500]LogConcert: Display: UngaBunga_TWIB (FD8D9BE5480371C7BD410FAFA9D98093): Remote endpoint '6B2070EC4B17C7145D7610922430D208' discovered.
+[2020.04.02-22.36.42:962][501]LogConcert: Display: Connected to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.36.42:964][501]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.36.42:965][501]LogConcert: Display: Activity Feed: Donnie left the session.
+[2020.04.02-22.36.42:966][501]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.36.42:967][501]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.36.43:011][502]LogConcert: [Success] Connected to Session 'UngaBunga_TWIB'
+[2020.04.02-22.36.50:784][377]LogConcert: Display: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Remote endpoint '77EF972443F7AF6620D0208BE6F9C374' timed-out.
+[2020.04.02-22.36.50:784][377]LogConcert: Warning: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Message 'E1B5CBA94AC9A0ED82F28C8A4F15CE6C' (ConcertAdmin_GetSessionsRequest) timed-out sending to '77EF972443F7AF6620D0208BE6F9C374'.
+[2020.04.02-22.36.50:784][377]LogConcert: Warning: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Message '9E6E2D724508F78CD1E4A2B8F5D1BE71' (ConcertAdmin_GetSessionClientsRequest) timed-out sending to '77EF972443F7AF6620D0208BE6F9C374'.
+[2020.04.02-22.39.36:346][578]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-22.39.38:467][769]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.39.38:475][769]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.48.19:084][527]LogConcert: [Pending] Creating Session 'Unga'... - Validating Workspace...
+[2020.04.02-22.48.19:084][527]LogSlate: Window 'Create A Session' being destroyed
+[2020.04.02-22.48.19:187][534]LogConcert: [Pending] Creating Session 'Unga'... - Attempting Remote Connection...
+[2020.04.02-22.48.19:227][537]LogConcert: Display: Disconnected from Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.48.19:228][537]SourceControl: Source control is disabled
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-22.48.19:230][537]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-22.48.19:234][537]LogConcert: Display: Shutdown Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.48.20:132][537]LogConcert: Display: UngaBunga_TWIB (FD8D9BE5480371C7BD410FAFA9D98093): Remote endpoint '6B2070EC4B17C7145D7610922430D208' timed-out.
+[2020.04.02-22.48.20:148][537]SourceControl: Source control is disabled
+[2020.04.02-22.48.20:148][537]SourceControl: Source control is disabled
+[2020.04.02-22.48.20:148][537]LogConcert: Display: Initialized Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.20:148][537]LogConcert: Display: Connecting to Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.20:167][538]LogConcert: Display: Unga (7B01E24E4DC5CCF97D33C1B617AB84A4): Remote endpoint '6B2070EC4B17C7145D7610922430D208' discovered.
+[2020.04.02-22.48.20:167][538]LogConcert: Display: Unga (7B01E24E4DC5CCF97D33C1B617AB84A4): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' discovered.
+[2020.04.02-22.48.20:167][538]LogConcert: [Success] Created Session 'Unga'
+[2020.04.02-22.48.20:204][539]LogConcert: Display: Connected to Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.20:206][539]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.48.43:824][638]LogConcert: Display: Disconnected from Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.43:824][638]SourceControl: Source control is disabled
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-22.48.43:826][638]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-22.48.43:830][638]LogConcert: Display: Shutdown Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.44:142][638]LogConcert: Display: Unga (7B01E24E4DC5CCF97D33C1B617AB84A4): Remote endpoint '6B2070EC4B17C7145D7610922430D208' timed-out.
+[2020.04.02-22.48.44:142][638]LogConcert: Display: Unga (7B01E24E4DC5CCF97D33C1B617AB84A4): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' timed-out.
+[2020.04.02-22.48.47:415][989]LogConcert: [Pending] Connecting to Session 'Unga'... - Validating Workspace...
+[2020.04.02-22.48.47:516][997]LogConcert: [Pending] Connecting to Session 'Unga'... - Attempting Remote Connection...
+[2020.04.02-22.48.47:619][999]SourceControl: Source control is disabled
+[2020.04.02-22.48.47:619][999]SourceControl: Source control is disabled
+[2020.04.02-22.48.47:619][999]LogConcert: Display: Initialized Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.47:619][999]LogConcert: Display: Connecting to Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.47:636][  0]LogConcert: Display: Unga (C5768BF642FA64565115969369D7FBE5): Remote endpoint '6B2070EC4B17C7145D7610922430D208' discovered.
+[2020.04.02-22.48.47:636][  0]LogConcert: [Success] Connected to Session 'Unga'
+[2020.04.02-22.48.47:672][  0]LogConcert: Display: Unga (C5768BF642FA64565115969369D7FBE5): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' discovered.
+[2020.04.02-22.48.47:717][  1]LogConcert: Display: Connected to Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.48.47:719][  1]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.48.47:721][  1]LogConcert: Display: Activity Feed: Donnie left the session.
+[2020.04.02-22.48.47:722][  1]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.53.25:941][971]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-22.54.54:270][160]LogUdpMessaging: Warning: Invalid setting for UnicastEndpoint '25.122.72.90' - binding to all local network adapters instead
+[2020.04.02-22.54.54:287][160]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.55.00:394][805]LogUdpMessaging: Warning: Invalid setting for UnicastEndpoint '25.122.72.90' - binding to all local network adapters instead
+[2020.04.02-22.55.00:400][805]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.55.04:506][228]LogUdpMessaging: Warning: Invalid setting for UnicastEndpoint '25.122.72.90' - binding to all local network adapters instead
+[2020.04.02-22.55.04:515][228]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.55.16:623][493]LogUdpMessaging: Warning: Invalid setting for UnicastEndpoint '25.122.72.90' - binding to all local network adapters instead
+[2020.04.02-22.55.16:630][493]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.55.35:743][592]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.55.35:819][592]LogUdpMessaging: Initializing tunnel on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-22.56.21:474][ 14]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.56.21:482][ 14]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-22.57.24:929][493]LogSlate: Window 'Multi-User Session' being destroyed
+[2020.04.02-22.57.24:936][493]LogSlate: Window 'Multi-User Session' being destroyed
+[2020.04.02-22.57.30:658][  1]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Validating Workspace...
+[2020.04.02-22.57.30:760][  9]LogConcert: [Pending] Connecting to Session 'UngaBunga_TWIB'... - Attempting Remote Connection...
+[2020.04.02-22.57.30:774][ 10]LogConcert: Display: Disconnected from Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.57.30:774][ 10]SourceControl: Source control is disabled
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-22.57.30:776][ 10]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/Unga_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-22.57.30:780][ 10]LogConcert: Display: Shutdown Concert session 'Unga' (Owner: Donnie).
+[2020.04.02-22.57.31:724][ 10]LogConcert: Display: Unga (C5768BF642FA64565115969369D7FBE5): Remote endpoint '6B2070EC4B17C7145D7610922430D208' timed-out.
+[2020.04.02-22.57.31:724][ 10]LogConcert: Display: Unga (C5768BF642FA64565115969369D7FBE5): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' timed-out.
+[2020.04.02-22.57.31:740][ 10]SourceControl: Source control is disabled
+[2020.04.02-22.57.31:740][ 10]SourceControl: Source control is disabled
+[2020.04.02-22.57.31:740][ 10]LogConcert: Display: Initialized Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.57.31:740][ 10]LogConcert: Display: Connecting to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.57.31:757][ 11]LogConcert: Display: UngaBunga_TWIB (B00DC95042FC2330D33C4187D6B77201): Remote endpoint '6B2070EC4B17C7145D7610922430D208' discovered.
+[2020.04.02-22.57.31:758][ 11]LogConcert: Display: UngaBunga_TWIB (B00DC95042FC2330D33C4187D6B77201): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' discovered.
+[2020.04.02-22.57.31:758][ 11]LogConcert: [Success] Connected to Session 'UngaBunga_TWIB'
+[2020.04.02-22.57.31:790][ 12]LogConcert: Display: Connected to Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-22.57.31:792][ 12]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.57.31:793][ 12]LogConcert: Display: Activity Feed: Donnie left the session.
+[2020.04.02-22.57.31:794][ 12]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.57.31:795][ 12]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.57.31:796][ 12]LogConcert: Display: Activity Feed: Donnie left the session.
+[2020.04.02-22.57.31:797][ 12]LogConcert: Display: Activity Feed: Donnie joined the session.
+[2020.04.02-22.57.33:808][ 98]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2020.04.02-22.57.33:830][ 98]LogConcert: [Pending] Deleting Session 'Unga'...
+[2020.04.02-22.57.34:392][141]LogConcert: Display: UngaBunga_TWIB (B00DC95042FC2330D33C4187D6B77201): Remote endpoint '48E7DF5247EDD1B60F31B093F1E49FFA' closed by remote peer.
+[2020.04.02-22.57.34:393][141]LogConcert: [Success] Deleted Session 'Unga'
+[2020.04.02-22.58.33:364][648]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-22.58.33:648][649]LogConcert: Display: Server DESKTOP-MN3TC04 discovered.
+[2020.04.02-23.00.59:656][402]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.02-23.07.37:414][888]LogHttp: Warning: 0000026FD56CE700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.02-23.07.37:414][888]LogHttp: Warning: 0000026FD56CE700: libcurl info message cache 0 (Connection 33 seems to be dead!)
+[2020.04.02-23.07.37:414][888]LogHttp: Warning: 0000026FD56CE700: libcurl info message cache 1 (Closing connection 33)
+[2020.04.02-23.07.37:414][888]LogHttp: Warning: 0000026FD56CE700: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.02-23.07.37:414][888]LogHttp: Warning: 0000026FD56CE700: libcurl info message cache 3 (Closing connection 34)
+[2020.04.02-23.07.37:751][889]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90D36F66-4B8E-4539-0509-1998BC49EEF0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3cd444f34295c52240b9888602e82ebf%7Cb197333d71774c16b886d2d9856eb5ad%7C20811650-7eea-4ed2-aaaf-23f142ffc76d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.02-23.24.22:810][941]LogConcert: Display: Server DESKTOP-MN3TC04 lost.
+[2020.04.02-23.25.17:211][104]LogConcert: Display: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Remote endpoint '86E8B35C4DEB490DD52A07A1D627D341' timed-out.
+[2020.04.02-23.25.17:211][104]LogConcert: Warning: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Message '598CE1174E1477C79D91ADBF325DC486' (ConcertAdmin_GetSessionsRequest) timed-out sending to '86E8B35C4DEB490DD52A07A1D627D341'.
+[2020.04.02-23.25.17:211][104]LogConcert: Warning: Admin (2CFFD90148FE797F630CCDA7A578F5D1): Message '4654DA26431112AEED0E2698A44D0C38' (ConcertAdmin_GetSessionClientsRequest) timed-out sending to '86E8B35C4DEB490DD52A07A1D627D341'.
+[2020.04.02-23.25.17:544][105]LogConcert: Display: UngaBunga_TWIB (B00DC95042FC2330D33C4187D6B77201): Remote endpoint '6B2070EC4B17C7145D7610922430D208' timed-out.
+[2020.04.02-23.25.17:544][105]LogConcert: Warning: UngaBunga_TWIB (B00DC95042FC2330D33C4187D6B77201): Message '58250EF14ADE3F98621620A79E211058' (ConcertSession_LeaveSessionEvent) timed-out sending to '6B2070EC4B17C7145D7610922430D208'.
+[2020.04.02-23.25.17:544][105]LogConcert: Display: Disconnected from Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-23.25.17:544][105]SourceControl: Source control is disabled
+[2020.04.02-23.25.17:546][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Engine/' was aborted.
+[2020.04.02-23.25.17:546][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/unga/' was aborted.
+[2020.04.02-23.25.17:546][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/Paper2D/' was aborted.
+[2020.04.02-23.25.17:546][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/AnimationSharing/' was aborted.
+[2020.04.02-23.25.17:546][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/ConcertSyncClient/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/CryptoKeys/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/DatasmithContent/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MagicLeap/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/MediaCompositing/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/OculusVR/' was aborted.
+[2020.04.02-23.25.17:547][105]LogDirectoryWatcher: A directory notification for 'D:/GameJams/unga/Intermediate/Concert/UngaBunga_TWIB_F1F7C7FE49E8BBD77CCED1994BE2400D/Sandbox/SteamVR/' was aborted.
+[2020.04.02-23.25.17:551][105]LogConcert: Display: Shutdown Concert session 'UngaBunga_TWIB' (Owner: Donnie).
+[2020.04.02-23.33.49:630][494]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.33.53:455][901]LogSourceControl: Attempting 'p4 client -o '
+[2020.04.02-23.33.53:460][901]SourceControl: Error: Empty identifier not allowed.
+
+[2020.04.02-23.33.53:479][901]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2020.04.02-23.33.57:421][320]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.34.46:357][161]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-23.34.46:366][161]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.02-23.37.33:082][701]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.37.35:375][974]LogSourceControl: Attempting 'p4 client -o '
+[2020.04.02-23.37.35:379][974]SourceControl: Error: Empty identifier not allowed.
+
+[2020.04.02-23.37.35:380][974]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2020.04.02-23.37.47:617][369]LogSourceControl: Attempting 'p4 client -o '
+[2020.04.02-23.37.47:621][369]SourceControl: Error: Empty identifier not allowed.
+
+[2020.04.02-23.37.47:621][369]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2020.04.02-23.37.50:855][701]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.37.53:982][ 29]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.37.59:941][689]LogSourceControl: Attempting 'p4 client -o '
+[2020.04.02-23.37.59:946][689]SourceControl: Error: Empty identifier not allowed.
+
+[2020.04.02-23.37.59:946][689]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2020.04.02-23.39.29:665][173]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.43.22:084][885]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.43.24:322][112]LogSourceControl: Attempting 'p4 client -o '
+[2020.04.02-23.43.24:326][112]SourceControl: Error: Empty identifier not allowed.
+
+[2020.04.02-23.43.24:326][112]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2020.04.02-23.59.59:467][201]LogSourceControl: Attempting 'p4 clients -u Donnie'
+[2020.04.02-23.59.59:475][202]LogSourceControl: Display:  Donnie_DESKTOP-MN3TC04_1707 client specs rejected due to root directory mismatch (c:/users/donnie/perforce/donnie_desktop-mn3tc04_1707/)
+[2020.04.03-00.00.05:688][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:688][894]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: URL: C:\Users\Donnie\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:689][894]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: URL: C:\Users\Donnie\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.05:690][894]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.03-00.00.52:277][745]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.52:277][745]LogWindows: Warning: URL: D:/UE_4.22/Engine/Binaries/Win64/https://dbc23910gmailcom@helixteamhub.cloud/delicate-moon-177/projects/ungabunga/repositories/git/ungabunga version
+[2020.04.03-00.00.52:360][755]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.00.52:360][755]LogWindows: Warning: URL: D:/UE_4.22/Engine/Binaries/Win64/https://dbc23910gmailcom@helixteamhub.cloud/delicate-moon-177/projects/ungabunga/repositories/git/ungabunga version
+[2020.04.03-00.00.52:360][755]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.04.03-00.01.15:725][802]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.03-00.01.15:726][802]LogWindows: Warning: URL: D:/UE_4.22/Engine/Binaries/Win64/https://dbc23910gmailcom@helixteamhub.cloud/delicate-moon-177/projects/ungabunga/repositories/git/ungabunga version
+[2020.04.03-00.01.15:726][802]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.04.03-00.08.59:592][283]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.03-00.09.01:355][288]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.03-00.09.01:359][288]LogSlate: Window 'Multi-User Browser' being destroyed
+[2020.04.03-00.10.25:958][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.04.03-00.10.27:142][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.04.03-00.10.27:820][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.04.03-00.10.28:233][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.04.03-00.10.28:968][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.04.03-00.10.29:442][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.04.03-00.10.29:922][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.04.03-00.10.30:574][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.04.03-00.10.30:929][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.04.03-00.11.42:042][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-00.17.12:018][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.03-00.17.12:137][737]LogSlate: Window 'unga - Unreal Editor' being destroyed
+[2020.04.03-00.17.12:459][738]Cmd: QUIT_EDITOR
+[2020.04.03-00.17.12:728][738]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.03-00.17.12:752][738]LogExit: Preparing to exit.
+[2020.04.03-00.17.14:197][738]LogExit: Editor shut down
+[2020.04.03-00.17.14:197][738]LogExit: Transaction tracking system shut down
+[2020.04.03-00.17.15:487][738]LogExit: Object subsystem successfully closed.
+[2020.04.03-00.17.15:687][738]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.03-00.17.15:707][738]LogD3D11RHI: Shutdown
+[2020.04.03-00.17.15:707][738]LogD3D11RHI: CleanupD3DDevice
+[2020.04.03-00.17.15:721][738]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-00.17.15:721][738]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-00.17.15:728][738]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-00.17.15:728][738]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-00.17.15:728][738]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-00.17.15:728][738]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-00.17.15:837][738]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module BlueprintGraph (662)
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module MeshBuilder (660)
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (658)
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (656)
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module SceneOutliner (654)
+[2020.04.03-00.17.17:550][738]LogModuleManager: Shutting down and abandoning module AddContentDialog (652)
+[2020.04.03-00.17.17:572][738]LogModuleManager: Shutting down and abandoning module WidgetCarousel (651)
+[2020.04.03-00.17.17:572][738]LogModuleManager: Shutting down and abandoning module EditorWidgets (648)
+[2020.04.03-00.17.17:572][738]LogModuleManager: Shutting down and abandoning module CollectionManager (646)
+[2020.04.03-00.17.17:576][738]LogModuleManager: Shutting down and abandoning module StatsViewer (644)
+[2020.04.03-00.17.17:580][738]LogModuleManager: Shutting down and abandoning module FoliageEdit (642)
+[2020.04.03-00.17.17:585][738]LogModuleManager: Shutting down and abandoning module LandscapeEditor (640)
+[2020.04.03-00.17.17:593][738]LogModuleManager: Shutting down and abandoning module MeshPaintMode (638)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (636)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module ActorPickerMode (634)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module GeometryMode (632)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module TextureAlignMode (630)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module BspMode (628)
+[2020.04.03-00.17.17:598][738]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (626)
+[2020.04.03-00.17.17:614][738]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (624)
+[2020.04.03-00.17.17:622][738]LogModuleManager: Shutting down and abandoning module AutomationWorker (622)
+[2020.04.03-00.17.17:633][738]LogModuleManager: Shutting down and abandoning module OculusMR (620)
+[2020.04.03-00.17.17:633][738]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (618)
+[2020.04.03-00.17.17:641][738]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (616)
+[2020.04.03-00.17.17:659][738]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (614)
+[2020.04.03-00.17.17:680][738]LogModuleManager: Shutting down and abandoning module PlacementMode (613)
+[2020.04.03-00.17.17:680][738]LogModuleManager: Shutting down and abandoning module MaterialEditor (612)
+[2020.04.03-00.17.17:834][738]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (608)
+[2020.04.03-00.17.17:844][738]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (606)
+[2020.04.03-00.17.17:844][738]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (604)
+[2020.04.03-00.17.17:844][738]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (602)
+[2020.04.03-00.17.17:844][738]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (600)
+[2020.04.03-00.17.17:844][738]LogModuleManager: Shutting down and abandoning module WebMMedia (598)
+[2020.04.03-00.17.17:853][738]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (596)
+[2020.04.03-00.17.17:860][738]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (594)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module SequenceRecorder (593)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (590)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (588)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (586)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (584)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (582)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (580)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (578)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (576)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (574)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (572)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (570)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module CharacterAI (568)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module SmartSnapping (566)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module SessionServices (564)
+[2020.04.03-00.17.17:872][738]LogModuleManager: Shutting down and abandoning module MeshPaint (562)
+[2020.04.03-00.17.17:876][738]LogModuleManager: Shutting down and abandoning module ViewportSnapping (560)
+[2020.04.03-00.17.17:876][738]LogModuleManager: Shutting down and abandoning module ViewportInteraction (558)
+[2020.04.03-00.17.17:876][738]LogModuleManager: Shutting down and abandoning module ClothPainter (556)
+[2020.04.03-00.17.17:890][738]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (555)
+[2020.04.03-00.17.17:897][738]LogModuleManager: Shutting down and abandoning module LogVisualizer (552)
+[2020.04.03-00.17.17:911][738]LogModuleManager: Shutting down and abandoning module IntroTutorials (550)
+[2020.04.03-00.17.17:917][738]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (549)
+[2020.04.03-00.17.17:932][738]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (546)
+[2020.04.03-00.17.17:932][738]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (544)
+[2020.04.03-00.17.17:932][738]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (542)
+[2020.04.03-00.17.17:932][738]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (540)
+[2020.04.03-00.17.17:932][738]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (539)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (536)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (534)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (532)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (530)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (528)
+[2020.04.03-00.17.18:627][738]LogModuleManager: Shutting down and abandoning module InputBindingEditor (526)
+[2020.04.03-00.17.18:638][738]LogModuleManager: Shutting down and abandoning module MergeActors (524)
+[2020.04.03-00.17.18:645][738]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (522)
+[2020.04.03-00.17.18:656][738]LogModuleManager: Shutting down and abandoning module LocalizationService (521)
+[2020.04.03-00.17.18:656][738]LogModuleManager: Shutting down and abandoning module HardwareTargeting (518)
+[2020.04.03-00.17.18:656][738]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (516)
+[2020.04.03-00.17.18:661][738]LogModuleManager: Shutting down and abandoning module UndoHistory (514)
+[2020.04.03-00.17.18:661][738]LogModuleManager: Shutting down and abandoning module XmlParser (512)
+[2020.04.03-00.17.18:671][738]LogModuleManager: Shutting down and abandoning module Blutility (510)
+[2020.04.03-00.17.18:674][738]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (508)
+[2020.04.03-00.17.18:674][738]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (507)
+[2020.04.03-00.17.18:674][738]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (504)
+[2020.04.03-00.17.18:674][738]LogModuleManager: Shutting down and abandoning module SettingsEditor (502)
+[2020.04.03-00.17.18:674][738]LogModuleManager: Shutting down and abandoning module ProjectLauncher (500)
+[2020.04.03-00.17.18:681][738]LogModuleManager: Shutting down and abandoning module SessionFrontend (498)
+[2020.04.03-00.17.18:691][738]LogModuleManager: Shutting down and abandoning module ProfilerClient (496)
+[2020.04.03-00.17.18:701][738]LogModuleManager: Shutting down and abandoning module DeviceManager (494)
+[2020.04.03-00.17.18:709][738]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (493)
+[2020.04.03-00.17.18:753][738]LogModuleManager: Shutting down and abandoning module AutomationController (490)
+[2020.04.03-00.17.18:801][738]LogModuleManager: Shutting down and abandoning module AutomationWindow (488)
+[2020.04.03-00.17.18:808][738]LogModuleManager: Shutting down and abandoning module Layers (486)
+[2020.04.03-00.17.18:822][738]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (484)
+[2020.04.03-00.17.18:822][738]LogModuleManager: Shutting down and abandoning module DetailCustomizations (482)
+[2020.04.03-00.17.18:829][738]LogModuleManager: Shutting down and abandoning module PackagesDialog (480)
+[2020.04.03-00.17.18:835][738]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (478)
+[2020.04.03-00.17.18:855][738]LogModuleManager: Shutting down and abandoning module Persona (476)
+[2020.04.03-00.17.18:876][738]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (475)
+[2020.04.03-00.17.18:876][738]LogModuleManager: Shutting down and abandoning module AnimGraph (473)
+[2020.04.03-00.17.18:876][738]LogModuleManager: Shutting down and abandoning module Kismet (470)
+[2020.04.03-00.17.18:891][738]LogModuleManager: Shutting down and abandoning module GraphEditor (468)
+[2020.04.03-00.17.18:898][738]LogModuleManager: Shutting down and abandoning module ClassViewer (466)
+[2020.04.03-00.17.18:898][738]LogModuleManager: Shutting down and abandoning module Toolbox (464)
+[2020.04.03-00.17.18:898][738]LogModuleManager: Shutting down and abandoning module ModuleUI (462)
+[2020.04.03-00.17.18:907][738]LogModuleManager: Shutting down and abandoning module MovieSceneTools (460)
+[2020.04.03-00.17.18:910][738]LogModuleManager: Shutting down and abandoning module OutputLog (458)
+[2020.04.03-00.17.18:910][738]LogModuleManager: Shutting down and abandoning module GammaUI (456)
+[2020.04.03-00.17.18:914][738]LogModuleManager: Shutting down and abandoning module Documentation (454)
+[2020.04.03-00.17.18:914][738]LogModuleManager: Shutting down and abandoning module LiveCoding (452)
+[2020.04.03-00.17.18:925][738]LogModuleManager: Shutting down and abandoning module LevelSequence (450)
+[2020.04.03-00.17.18:925][738]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (448)
+[2020.04.03-00.17.18:925][738]LogModuleManager: Shutting down and abandoning module MovieScene (446)
+[2020.04.03-00.17.18:933][738]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (444)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module LauncherPlatform (442)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module AnalyticsET (440)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module PortalServices (438)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module PortalRpc (436)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module MessagingRpc (434)
+[2020.04.03-00.17.18:942][738]LogModuleManager: Shutting down and abandoning module AIModule (432)
+[2020.04.03-00.17.18:949][738]LogModuleManager: Shutting down and abandoning module GameplayDebugger (431)
+[2020.04.03-00.17.18:955][738]LogModuleManager: Shutting down and abandoning module AITestSuite (429)
+[2020.04.03-00.17.18:963][738]LogModuleManager: Shutting down and abandoning module NavigationSystem (427)
+[2020.04.03-00.17.18:963][738]LogModuleManager: Shutting down and abandoning module DesktopPlatform (424)
+[2020.04.03-00.17.18:963][738]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (422)
+[2020.04.03-00.17.18:966][738]LogModuleManager: Shutting down and abandoning module ProfilerService (420)
+[2020.04.03-00.17.19:181][738]LogModuleManager: Shutting down and abandoning module TaskGraph (418)
+[2020.04.03-00.17.19:203][738]LogModuleManager: Shutting down and abandoning module SteamVRController (416)
+[2020.04.03-00.17.19:203][738]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (414)
+[2020.04.03-00.17.19:210][738]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (412)
+[2020.04.03-00.17.19:220][738]LogModuleManager: Shutting down and abandoning module OculusEditor (410)
+[2020.04.03-00.17.19:234][738]LogModuleManager: Shutting down and abandoning module OculusInput (408)
+[2020.04.03-00.17.19:234][738]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (406)
+[2020.04.03-00.17.19:234][738]LogModuleManager: Shutting down and abandoning module EditableMesh (404)
+[2020.04.03-00.17.19:238][738]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (402)
+[2020.04.03-00.17.19:238][738]LogModuleManager: Shutting down and abandoning module CableComponent (400)
+[2020.04.03-00.17.19:241][738]LogModuleManager: Shutting down and abandoning module AudioCapture (398)
+[2020.04.03-00.17.19:241][738]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (396)
+[2020.04.03-00.17.19:241][738]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.03-00.17.19:241][738]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.03-00.17.19:248][738]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.03-00.17.19:252][738]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.03-00.17.19:252][738]LogModuleManager: Shutting down and abandoning module LinearTimecode (386)
+[2020.04.03-00.17.19:252][738]LogModuleManager: Shutting down and abandoning module ImgMedia (384)
+[2020.04.03-00.17.19:252][738]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (382)
+[2020.04.03-00.17.19:252][738]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (380)
+[2020.04.03-00.17.19:260][738]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (378)
+[2020.04.03-00.17.19:263][738]LogModuleManager: Shutting down and abandoning module HTML5Networking (376)
+[2020.04.03-00.17.19:263][738]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2020.04.03-00.17.19:263][738]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (372)
+[2020.04.03-00.17.19:263][738]LogModuleManager: Shutting down and abandoning module BackChannel (370)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module AppleVision (368)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (366)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module AppleImageUtils (364)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module AlembicImporter (362)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module AlembicLibrary (361)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (359)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module VariantManagerContent (354)
+[2020.04.03-00.17.19:267][738]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (352)
+[2020.04.03-00.17.19:355][738]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (350)
+[2020.04.03-00.17.19:355][738]LogModuleManager: Shutting down and abandoning module PluginBrowser (348)
+[2020.04.03-00.17.19:355][738]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (346)
+[2020.04.03-00.17.19:364][738]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (344)
+[2020.04.03-00.17.19:370][738]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.03-00.17.19:370][738]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.03-00.17.19:370][738]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.03-00.17.19:371][738]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.03-00.17.19:371][738]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.03-00.17.19:371][738]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module ConcertSyncClientLibrary (324)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module ConcertUICore (322)
+[2020.04.03-00.17.19:379][738]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (320)
+[2020.04.03-00.17.19:386][738]LogModuleManager: Shutting down and abandoning module ConcertFrontend (318)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.04.03-00.17.19:397][738]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2020.04.03-00.17.19:409][738]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2020.04.03-00.17.19:510][738]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2020.04.03-00.17.19:630][738]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (284)
+[2020.04.03-00.17.19:630][738]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (282)
+[2020.04.03-00.17.19:630][738]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (280)
+[2020.04.03-00.17.19:633][738]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (278)
+[2020.04.03-00.17.19:634][738]LogModuleManager: Shutting down and abandoning module MagicLeapController (276)
+[2020.04.03-00.17.19:645][738]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module MagicLeapAR (274)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module AugmentedReality (273)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2020.04.03-00.17.19:645][738]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2020.04.03-00.17.19:657][738]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2020.04.03-00.17.19:675][738]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2020.04.03-00.17.19:683][738]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2020.04.03-00.17.19:683][738]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2020.04.03-00.17.19:683][738]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2020.04.03-00.17.19:691][738]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2020.04.03-00.17.19:692][738]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (246)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module ConcertTransport (244)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module Concert (242)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.04.03-00.17.19:700][738]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.04.03-00.17.19:711][738]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.04.03-00.17.19:717][738]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.04.03-00.17.19:725][738]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.04.03-00.17.19:725][738]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.04.03-00.17.19:725][738]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.04.03-00.17.19:748][738]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.04.03-00.17.19:749][738]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.04.03-00.17.19:749][738]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.04.03-00.17.19:749][738]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.04.03-00.17.19:756][738]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.04.03-00.17.19:769][738]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.04.03-00.17.19:769][738]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.04.03-00.17.19:786][738]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.04.03-00.17.19:791][738]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.04.03-00.17.19:804][738]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.04.03-00.17.19:809][738]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.04.03-00.17.19:813][738]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.04.03-00.17.19:897][738]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.04.03-00.17.19:940][738]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.04.03-00.17.19:940][738]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.04.03-00.17.19:955][738]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.04.03-00.17.19:955][738]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.04.03-00.17.19:957][738]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.04.03-00.17.19:960][738]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.04.03-00.17.19:968][738]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.04.03-00.17.19:968][738]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.04.03-00.17.19:977][738]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.04.03-00.17.19:987][738]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.04.03-00.17.19:997][738]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.04.03-00.17.20:007][738]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.04.03-00.17.20:075][738]LogDerivedDataCache: Shutdown
+[2020.04.03-00.17.20:075][738]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.04.03-00.17.20:087][738]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.04.03-00.17.20:092][738]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.04.03-00.17.20:170][738]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.04.03-00.17.20:178][738]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.04.03-00.17.20:188][738]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.04.03-00.17.20:188][738]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.04.03-00.17.20:193][738]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.04.03-00.17.20:193][738]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.04.03-00.17.20:193][738]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.04.03-00.17.20:212][738]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.04.03-00.17.20:214][738]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.04.03-00.17.20:214][738]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.04.03-00.17.20:214][738]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.04.03-00.17.20:214][738]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.04.03-00.17.20:222][738]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.04.03-00.17.20:223][738]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.04.03-00.17.20:224][738]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.04.03-00.17.20:245][738]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.04.03-00.17.20:245][738]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.04.03-00.17.20:253][738]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.04.03-00.17.20:254][738]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.04.03-00.17.20:260][738]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.04.03-00.17.20:260][738]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.04.03-00.17.20:260][738]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.04.03-00.17.20:262][738]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.04.03-00.17.20:262][738]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.04.03-00.17.20:267][738]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.04.03-00.17.20:268][738]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.04.03-00.17.20:268][738]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.04.03-00.17.20:280][738]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.03-00.17.20:280][738]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.04.03-00.17.20:292][738]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.04.03-00.17.20:292][738]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.04.03-00.17.20:292][738]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.04.03-00.17.20:292][738]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.04.03-00.17.20:317][738]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.04.03-00.17.20:335][738]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.04.03-00.17.20:457][738]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.04.03-00.17.20:457][738]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.03-00.17.20:457][738]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90D36F66-4B8E-4539-0509-1998BC49EEF0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3cd444f34295c52240b9888602e82ebf%7Cb197333d71774c16b886d2d9856eb5ad%7C20811650-7eea-4ed2-aaaf-23f142ffc76d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.03-00.17.20:481][738]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.04.03-00.17.20:482][738]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.04.03-00.17.20:490][738]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.04.03-00.17.20:496][738]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.04.03-00.17.20:500][738]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.04.03-00.17.20:500][738]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.03-00.17.20:506][738]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.03-00.17.20:516][738]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.03-00.17.20:533][738]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.03-00.17.20:540][738]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.03-00.17.20:540][738]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.03-00.17.20:540][738]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.03-00.17.20:546][738]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.03-00.17.20:557][738]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.03-00.17.20:560][738]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.03-00.17.20:560][738]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.03-00.17.20:567][738]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.03-00.17.20:567][738]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.03-00.17.20:571][738]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.03-00.17.20:593][738]LogExit: Exiting.
+[2020.04.03-00.17.20:606][738]Log file closed, 04/02/20 20:17:20
