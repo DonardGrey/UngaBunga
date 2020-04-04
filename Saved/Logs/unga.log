@@ -4086,3 +4086,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-21.49.11:084][409]SourceControl:  delete mode 100644 Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
 [2020.04.04-21.49.11:084][409]SourceControl:  delete mode 100644 Content/StarterContent/Textures/T_ground_Moss_D.uasset
 [2020.04.04-21.49.11:098][409]SourceControl: Commited [master d2ef6cf] Removed Starter Content Textures.
+[2020.04.04-21.50.36:047][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.04-21.50.55:444][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.04-21.50.57:810][129]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.04-21.50.57:816][129]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+	Asset Name: /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2020.04.04-21.50.59:483][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.04-21.50.59:514][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.04-21.50.59:546][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.04-21.50.59:579][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.04-21.50.59:612][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.04-21.50.59:645][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.04-21.50.59:683][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.04-21.50.59:717][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.04.04-21.50.59:752][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.04.04-21.50.59:787][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.04-21.50.59:977][129]SourceControl: Error: Updated 0 paths from the index
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_Fire.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_Idle.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset'
+[2020.04.04-21.51.00:118][129]SourceControl: rm 'Content/FirstPerson/Animations/FirstPerson_Run.uasset'
+[2020.04.04-21.51.06:350][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.04-21.51.07:738][750]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.04-21.51.07:913][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.04-21.51.07:951][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.04-21.51.07:981][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.04-21.51.08:171][750]SourceControl: Error: Updated 0 paths from the index
+[2020.04.04-21.51.08:301][750]SourceControl: rm 'Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2020.04.04-21.51.18:383][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.04.04-21.51.19:852][825]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.04-21.51.20:036][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.04-21.51.20:069][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.04-21.51.20:101][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.04-21.51.20:142][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.04-21.51.20:175][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.04-21.51.20:365][825]SourceControl: Error: Updated 0 paths from the index
+[2020.04.04-21.51.20:493][825]SourceControl: rm 'Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2020.04.04-21.51.20:493][825]SourceControl: rm 'Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2020.04.04-21.51.20:493][825]SourceControl: rm 'Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:192][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:193][237]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPerson_AnimBP.Default__FirstPerson_AnimBP_C Referenced by Default__FirstPersonAnimBlueprint_Copy_C
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:193][237]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP Referenced by FirstPersonAnimBlueprint_Copy
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file '/Game/FirstPerson/Animations/FirstPerson_AnimBP'
+[2020.04.04-21.51.24:193][237]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C Referenced by FirstPersonAnimBlueprint_Copy_C
+[2020.04.04-21.51.24:193][237]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Animations/FirstPerson_AnimBP' while loading NULL.
+[2020.04.04-21.51.24:225][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.04.04-21.51.28:140][237]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.04-21.51.28:320][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.04-21.51.28:352][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.04-21.51.28:383][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.04-21.51.28:573][237]SourceControl: Error: Updated 0 paths from the index
+[2020.04.04-21.51.28:702][237]SourceControl: rm 'Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset'
+[2020.04.04-21.51.30:687][429]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.04-21.51.30:906][430]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.04.04-21.51.30:949][431]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.04.04-21.51.30:989][432]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.04.04-21.53.00:631][130]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'D:/GameJams/unga/UngaBunga'
+[2020.04.04-21.53.31:142][130]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.04-21.53.32:396][130]LogSourceControl: commit successful: [master a5d6c8b] Deleted more first person files
+[2020.04.04-21.53.32:550][130]SourceControl: [master a5d6c8b] Deleted more first person files
+[2020.04.04-21.53.32:550][130]SourceControl:  13 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Animations/FirstPerson_Run.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2020.04.04-21.53.32:550][130]SourceControl:  delete mode 100644 Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2020.04.04-21.53.32:564][130]SourceControl: Commited [master a5d6c8b] Deleted more first person files.
