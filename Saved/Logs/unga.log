@@ -815,3 +815,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-21.20.42:988][378]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset (73%)
 [2020.04.04-21.20.42:988][378]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/Rock_Projectile.uasset (86%)
 [2020.04.04-21.20.43:002][378]SourceControl: Commited [Donnie-Branch e277f75] Resolved Conflicts.
+[2020.04.04-21.26.09:743][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/SK_Fox_Blueprint" FILE="../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/SK_Fox_Blueprint.uasset" SILENT=true
+[2020.04.04-21.26.09:772][ 20]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/SK_Fox_BlueprintACE5AD4B4C6EFA532C4E8A9284E44673.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/SK_Fox_Blueprint.uasset'
