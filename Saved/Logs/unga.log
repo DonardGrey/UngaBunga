@@ -784,3 +784,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-21.35.27:106][152]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
 [2020.04.04-21.35.27:106][152]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset (88%)
 [2020.04.04-21.35.27:119][152]SourceControl: Commited [master cc98bbc] Made cross hair more accurate.
+[2020.04.04-21.36.10:273][890]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.144 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.04-21.36.11:262][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.04-21.36.30:113][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.04.04-21.36.30:163][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.04.04-21.36.30:172][ 31]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Caveman_Player.Caveman_Player_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.04.04-21.36.30:172][ 31]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Caveman_Player.SKEL_Caveman_Player_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.04.04-21.36.30:202][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Caveman_Player" FILE="../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/Caveman_Player.uasset" SILENT=true
+[2020.04.04-21.36.30:259][ 31]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/Caveman_PlayerC6C9781A4333C0F0DD411AB11C945BD5.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/Caveman_Player.uasset'
+[2020.04.04-21.36.30:528][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.04.04-21.36.30:536][ 31]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/FirstPersonCharacterD87237424CF4A1C8936D208EEEFC2B81.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.04-21.36.33:446][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.04-21.36.33:634][296]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/FirstPersonExampleMap5C87040B4AB2505D316ACC81144E5CF2.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.04-21.36.33:664][296]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.257
+[2020.04.04-21.36.33:665][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Throw_Bar" FILE="../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/Throw_Bar.uasset" SILENT=true
+[2020.04.04-21.36.33:687][296]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/Throw_Bar025C31E24EE8DD47CBF184B9F0464B03.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/Throw_Bar.uasset'
+[2020.04.04-21.36.33:692][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonGameMode" FILE="../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" SILENT=true
+[2020.04.04-21.36.33:707][296]LogSavePackage: Moving '../../../../GameJams/unga/UngaBunga/Saved/FirstPersonGameMode032650B14CCEA236B78031A83124EE98.tmp' to '../../../../GameJams/unga/UngaBunga/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.04-21.36.37:603][700]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'D:/GameJams/unga/UngaBunga'
+[2020.04.04-21.36.55:352][700]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.04-21.36.56:548][700]LogSourceControl: commit successful: [master cc65eb8] Changed Player name to Caveman
+[2020.04.04-21.36.56:659][700]SourceControl: [master cc65eb8] Changed Player name to Caveman
+[2020.04.04-21.36.56:659][700]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.04-21.36.56:659][700]SourceControl:  copy Content/FirstPersonBP/Blueprints/{FirstPersonCharacter.uasset => Caveman_Player.uasset} (84%)
+[2020.04.04-21.36.56:659][700]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset (100%)
+[2020.04.04-21.36.56:659][700]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset (71%)
+[2020.04.04-21.36.56:672][700]SourceControl: Commited [master cc65eb8] Changed Player name to Caveman.
