@@ -1,0 +1,1147 @@
+﻿Log file open, 04/06/20 10:32:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unga
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191414
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: AMD Radeon (TM) R9 380 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.06-14.32.10:604][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:605][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:609][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.06-14.32.10:609][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.06-14.32.10:610][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.06-14.32.10:610][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.06-14.32.10:610][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.06-14.32.10:625][  0]LogHAL: Display: Platform has ~ 16 GB [17098301440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.06-14.32.10:625][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.06-14.32.10:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.06-14.32.10:625][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Scalability.ini]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.06-14.32.10:626][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.06-14.32.10:627][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.06-14.32.10:627][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.06-14.32.10:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Config/Windows/Engine.ini]
+[2020.04.06-14.32.10:627][  0]LogInit: Computer: KEY-PC
+[2020.04.06-14.32.10:627][  0]LogInit: User: Key
+[2020.04.06-14.32.10:627][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.06-14.32.10:627][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.06-14.32.10:627][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.06-14.32.10:627][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.06-14.32.10:627][  0]LogMemory: Process Physical Memory: 97.01 MB used, 97.02 MB peak
+[2020.04.06-14.32.10:627][  0]LogMemory: Process Virtual Memory: 91.95 MB used, 91.95 MB peak
+[2020.04.06-14.32.10:627][  0]LogMemory: Physical Memory: 6097.61 MB used,  10208.61 MB free, 16306.21 MB total
+[2020.04.06-14.32.10:627][  0]LogMemory: Virtual Memory: 4632.99 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.04.06-14.32.10:649][  0]LogInit: Using OS detected language (en-US).
+[2020.04.06-14.32.10:649][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.06-14.32.10:650][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.06-14.32.10:868][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.06-14.32.10:910][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.06-14.32.10:910][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.06-14.32.11:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.06-14.32.11:106][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.06-14.32.11:168][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 380 Series' (Feature Level 11_0)
+[2020.04.06-14.32.11:168][  0]LogD3D11RHI:       4071/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.06-14.32.11:170][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.06-14.32.11:170][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.06-14.32.11:170][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.06-14.32.11:180][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.06-14.32.11:180][  0]LogD3D11RHI:     GPU DeviceId: 0x6939 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.06-14.32.11:180][  0]LogWindows: EnumDisplayDevices:
+[2020.04.06-14.32.11:180][  0]LogWindows:    0. 'AMD Radeon (TM) R9 380 Series' (P:1 D:1)
+[2020.04.06-14.32.11:181][  0]LogWindows:    1. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:181][  0]LogWindows:    2. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:182][  0]LogWindows:    3. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:182][  0]LogWindows:    4. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:183][  0]LogWindows:    5. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:183][  0]LogWindows:    6. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:183][  0]LogWindows:    7. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2020.04.06-14.32.11:184][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.04.06-14.32.11:184][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 380 Series
+[2020.04.06-14.32.11:184][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.20 (internal:26.20.12028.2, unified:26.20.12028.2)
+[2020.04.06-14.32.11:184][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2020.04.06-14.32.11:184][  0]LogRHI: Texture pool is 2850 MB (70% of 4071 MB)
+[2020.04.06-14.32.11:237][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.06-14.32.11:241][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.06-14.32.11:242][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.06-14.32.11:242][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.06-14.32.11:249][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.04.06-14.32.11:894][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.06-14.32.11:910][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.06-14.32.11:927][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.06-14.32.11:944][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.06-14.32.11:961][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.06-14.32.11:977][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.06-14.32.11:996][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.06-14.32.12:013][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.06-14.32.12:021][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.06-14.32.12:120][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.06-14.32.12:124][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.06-14.32.12:181][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.06-14.32.12:181][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.06-14.32.12:215][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.06-14.32.12:215][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.06-14.32.12:232][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.06-14.32.12:248][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.06-14.32.12:265][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.06-14.32.12:282][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.06-14.32.12:339][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.06-14.32.12:339][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.06-14.32.12:339][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.06-14.32.12:351][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.06-14.32.12:420][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Intermediate/Shaders/WorkingDirectory/17600/).
+[2020.04.06-14.32.12:421][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Key/AppData/Local/Temp/UnrealShaderWorkingDir/5E61479C46BCA14D5ED855A63911D2FD/'.
+[2020.04.06-14.32.12:425][  0]LogXGEController: Cleaning working directory: C:/Users/Key/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.06-14.32.12:425][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.06-14.32.12:425][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.06-14.32.12:425][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.06-14.32.13:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Key/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Key/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.06-14.32.13:148][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.06-14.32.13:162][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.06-14.32.13:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.06-14.32.13:163][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.06-14.32.13:175][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Key/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.06-14.32.13:175][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.06-14.32.13:175][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.06-14.32.13:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.06-14.32.13:203][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.06-14.32.13:204][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.06-14.32.13:299][  0]LogAssetRegistry: FAssetRegistry took 0.0374 seconds to start up
+[2020.04.06-14.32.13:702][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.06-14.32.13:861][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.06-14.32.13:861][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.06-14.32.13:861][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.06-14.32.13:861][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.06-14.32.13:861][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.06-14.32.13:878][  0]LogNetVersion: unga 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2805561233)
+[2020.04.06-14.32.14:349][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051102 seconds
+[2020.04.06-14.32.14:358][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.06-14.32.14:358][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.06-14.32.14:358][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.06-14.32.15:326][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.06-14.32.15:343][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.06-14.32.15:399][  0]LogUdpMessaging: Initializing tunnel on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.06-14.32.15:471][  0]SourceControl: Source control is disabled
+[2020.04.06-14.32.15:471][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:472][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.06-14.32.15:472][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:472][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.06-14.32.15:472][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:472][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.06-14.32.15:473][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:473][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.06-14.32.15:473][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:473][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.06-14.32.15:474][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:474][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.06-14.32.15:474][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:474][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.06-14.32.15:476][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:476][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.06-14.32.15:477][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:478][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.06-14.32.15:478][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:478][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.06-14.32.15:479][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:479][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.06-14.32.15:479][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:480][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.06-14.32.15:481][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.15:481][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.06-14.32.15:565][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.06-14.32.15:673][  0]LogOcInput: OculusInput pre-init called
+[2020.04.06-14.32.16:519][  0]LogEngine: Initializing Engine...
+[2020.04.06-14.32.16:520][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.06-14.32.16:521][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.06-14.32.16:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.06-14.32.16:782][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.06-14.32.16:811][  0]LogInit: XAudio2 using 'Headset Earphone (2- Wireless Controller)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2020.04.06-14.32.16:832][  0]LogInit: FAudioDevice initialized.
+[2020.04.06-14.32.16:832][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.06-14.32.17:041][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/Key/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.06-14.32.17:052][  0]LogInit: Texture streaming: Enabled
+[2020.04.06-14.32.17:073][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.06-14.32.17:100][  0]LogInit: Transaction tracking system initialized
+[2020.04.06-14.32.17:130][  0]BlueprintLog: New page: Editor Load
+[2020.04.06-14.32.17:241][  0]LocalizationService: Localization service is disabled
+[2020.04.06-14.32.17:567][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/' took 0.02s
+[2020.04.06-14.32.17:567][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.06-14.32.17:567][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.06-14.32.17:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:770][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.06-14.32.17:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:770][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:771][  0]LogWindows: Warning: URL: C:\Users\Key\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.06-14.32.17:772][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.06-14.32.17:772][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.06-14.32.17:772][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.06-14.32.17:772][  0]LightingResults: New page: Lighting Build
+[2020.04.06-14.32.17:776][  0]MapCheck: New page: Map Check
+[2020.04.06-14.32.17:776][  0]LightingResults: New page: Lighting Build
+[2020.04.06-14.32.17:804][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.06-14.32.18:113][  0]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.04.06-14.32.18:114][  0]LogMaterial: Warning: C:\Users\Key\Documents\GitHub\Unga_Bunga\UngaBunga\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.06-14.32.18:114][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.06-14.32.18:186][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.06-14.32.18:200][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.06-14.32.18:235][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.06-14.32.18:235][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.06-14.32.18:235][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.04.06-14.32.18:235][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.464
+[2020.04.06-14.32.18:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-14.32.18:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-14.32.18:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-14.32.18:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-14.32.18:394][  0]LogCollectionManager: Loaded 0 collections in 0.002307 seconds
+[2020.04.06-14.32.18:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Collections/' took 0.01s
+[2020.04.06-14.32.18:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/Developers/Key/Collections/' took 0.01s
+[2020.04.06-14.32.18:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/Collections/' took 0.00s
+[2020.04.06-14.32.18:424][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.06-14.32.18:434][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2732 classes and 659 folders.
+[2020.04.06-14.32.18:442][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.06-14.32.18:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.06-14.32.18:496][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.06-14.32.18:502][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.06-14.32.18:521][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.06-14.32.18:523][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.06-14.32.18:528][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.06-14.32.18:604][  0]LogRenderer: Reallocating scene render targets to support 1008x596 Format 10 NumSamples 1 (Frame:1).
+[2020.04.06-14.32.18:775][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.06-14.32.18:775][  0]LogLoad: (Engine Initialization) Total time: 10.15 seconds
+[2020.04.06-14.32.18:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.06-14.32.18:829][  0]LogAssetRegistry: Asset discovery search completed in 5.5522 seconds
+[2020.04.06-14.32.18:831][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.06-14.32.18:831][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.04.06-14.32.18:832][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.06-14.32.18:872][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.06-14.32.34:321][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.32.39:590][711]LogRenderer: Reallocating scene render targets to support 1008x600 Format 10 NumSamples 1 (Frame:567).
+[2020.04.06-14.32.39:638][712]LogRenderer: Reallocating scene render targets to support 1008x612 Format 10 NumSamples 1 (Frame:569).
+[2020.04.06-14.32.39:678][713]LogRenderer: Reallocating scene render targets to support 1008x628 Format 10 NumSamples 1 (Frame:571).
+[2020.04.06-14.32.39:716][714]LogRenderer: Reallocating scene render targets to support 1008x636 Format 10 NumSamples 1 (Frame:573).
+[2020.04.06-14.32.39:757][715]LogRenderer: Reallocating scene render targets to support 1008x644 Format 10 NumSamples 1 (Frame:575).
+[2020.04.06-14.32.39:798][716]LogRenderer: Reallocating scene render targets to support 1008x652 Format 10 NumSamples 1 (Frame:577).
+[2020.04.06-14.32.39:841][717]LogRenderer: Reallocating scene render targets to support 1008x664 Format 10 NumSamples 1 (Frame:579).
+[2020.04.06-14.32.39:880][718]LogRenderer: Reallocating scene render targets to support 1008x668 Format 10 NumSamples 1 (Frame:581).
+[2020.04.06-14.32.39:920][719]LogRenderer: Reallocating scene render targets to support 1008x676 Format 10 NumSamples 1 (Frame:583).
+[2020.04.06-14.32.39:991][721]LogRenderer: Reallocating scene render targets to support 1008x684 Format 10 NumSamples 1 (Frame:587).
+[2020.04.06-14.32.46:255][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.06-14.32.46:256][416]Cmd: MAP LOAD FILE="../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/FirstPersonBP/Maps/The_World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.06-14.32.46:259][416]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.06-14.32.46:267][416]LightingResults: New page: Lighting Build
+[2020.04.06-14.32.46:268][416]LoadErrors: New page: Loading map: The_World.umap
+[2020.04.06-14.32.46:270][416]MapCheck: New page: Map Check
+[2020.04.06-14.32.46:270][416]LightingResults: New page: Lighting Build
+[2020.04.06-14.32.46:295][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.04.06-14.32.46:701][416]LogAIModule: Creating AISystem for world The_World
+[2020.04.06-14.32.46:767][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.06-14.32.46:796][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.06-14.32.46:833][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.06-14.32.46:833][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.04.06-14.32.46:833][416]LogFileHelpers: Loading map 'The_World' took 0.578
+[2020.04.06-14.32.46:833][416]LogSlate: Window 'Open Level' being destroyed
+[2020.04.06-14.33.09:245][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.33.49:377][343]LogActorFactory: Actor Factory created Mapple_Tree_redleaf_01
+[2020.04.06-14.33.50:015][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.33.55:639][ 37]LogActorFactory: Actor Factory created Pine_01
+[2020.04.06-14.33.56:241][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.35.24:396][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.35.26:210][356]MapCheck: New page: Map Check
+[2020.04.06-14.35.26:221][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.35.26:224][356]LightingResults: New page: Lighting Build - Apr 6, 2020, 6:35:26 AM
+[2020.04.06-14.35.26:277][356]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.06-14.35.26:363][356]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.06-14.35.26:376][356]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.06-14.35.26:889][356]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.06-14.35.26:890][356]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17600
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.06-14.35.30:047][356]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.06-14.35.30:252][356]LogEditorBuildUtils: Build time 0:04
+[2020.04.06-14.35.30:315][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.06-14.35.30:360][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.06-14.35.30:469][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.06-14.36.00:884][682]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.00:884][682]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:008][688]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:008][688]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:220][697]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:220][697]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:385][704]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:385][704]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:562][712]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:562][712]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:698][718]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:698][718]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.01:905][727]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.01:905][727]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.02:102][735]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.02:102][735]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.02:291][743]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.02:291][743]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.02:498][752]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.02:498][752]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.02:743][763]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.02:743][763]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.02:924][771]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.02:924][771]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.03:126][780]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.03:126][780]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.03:308][788]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.03:308][788]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.03:511][797]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.03:511][797]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.12:886][ 38]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.12:886][ 38]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.12:886][ 38]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.12:886][ 38]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.27:005][ 80]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.27:005][ 80]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.29:698][ 88]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.29:698][ 88]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.31:366][ 93]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.31:366][ 93]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.41:441][123]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.41:441][123]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.42:444][126]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.42:444][126]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.42:777][127]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.42:777][127]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.43:788][130]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.43:788][130]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.44:109][131]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.44:109][131]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.45:116][134]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.45:116][134]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.45:116][134]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.45:116][134]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.46:115][137]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.46:115][137]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.46:444][138]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.46:444][138]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.46:792][139]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.46:792][139]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.46:792][139]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.46:792][139]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:127][140]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:127][140]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:473][141]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:473][141]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:473][141]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.47:473][141]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:473][141]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:473][141]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:811][142]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:811][142]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:811][142]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:811][142]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.47:811][142]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.47:811][142]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.48:145][143]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.48:145][143]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.49:150][146]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.49:150][146]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.49:506][147]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.49:506][147]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.49:506][147]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.49:506][147]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.50:851][151]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.50:851][151]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:182][152]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.51:182][152]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:182][152]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.51:182][152]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:527][153]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.51:527][153]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:527][153]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.51:527][153]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:859][154]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.51:859][154]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.51:859][154]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.51:859][154]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.52:195][155]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.52:195][155]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.52:533][156]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.52:533][156]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.52:533][156]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.52:533][156]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.52:892][157]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.52:892][157]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.53:201][158]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.53:201][158]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.53:201][158]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.53:201][158]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.53:534][159]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.53:534][159]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.55:210][164]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.55:210][164]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.55:539][165]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.55:539][165]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.56:562][168]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.56:562][168]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.57:243][170]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.57:243][170]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.57:243][170]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.57:243][170]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.57:572][171]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.57:572][171]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.57:572][171]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.36.57:572][171]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.57:923][172]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.57:923][172]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.58:584][174]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.58:584][174]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.58:584][174]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.58:584][174]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.58:584][174]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.58:584][174]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.58:922][175]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.58:922][175]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.58:922][175]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.36.58:922][175]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.59:262][176]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.59:262][176]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.36.59:262][176]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.36.59:262][176]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.09:116][205]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.37.09:116][205]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.10:794][210]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.37.10:794][210]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:124][211]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:124][211]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:124][211]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:124][211]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:467][212]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:467][212]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:467][212]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:467][212]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:467][212]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:467][212]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:467][212]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:467][212]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.11:799][213]Job is a success!
+[2020.04.06-14.37.11:960][213]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has overlapping UVs.
+[2020.04.06-14.37.11:960][213]LightingResults: Mapple_Tree_redleaf_01 Lightmap UV are overlapping by 99.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.061s
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:          1: 2.4% covering 14.1% of volume
+[2020.04.06-14.37.12:259][214]LogVolumetricLightmapImport:          2: 97.3% covering 8.7% of volume
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.04.06-14.37.15:268][214]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.04.06-14.37.15:468][214]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.04.06-14.37.15:561][214]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.04.06-14.37.15:596][214]LogStaticLightingSystem: The_World_BuiltData storing lightmap data for 491 meshes in 7 LightmapResourceClusters (70.1 Meshes per cluster).
+[2020.04.06-14.37.15:635][214]Lightmass on KEY-PC: 1:44 min total, 699 ms importing, 1.16 sec setup, 27.4 sec photons, 1:14 min processing, 0 ms extra exporting [587/587 mappings]. Threads: 4:59 min total, 2:22 min processing.
+[2020.04.06-14.37.15:640][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.04.06-14.37.15:645][214]LogStaticLightingSystem: Illumination: 1:49 min (2.60 sec encoding lightmaps, 291 ms encoding shadowmaps)
+[2020.04.06-14.37.15:645][214]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.04.06-14.37.15:645][214]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.06-14.37.16:134][214]DumpUnbuiltLightIteractions
+[2020.04.06-14.37.16:134][214]Lights with unbuilt interactions: 0
+[2020.04.06-14.37.16:134][214]
+[2020.04.06-14.37.16:134][214]Primitives with unbuilt interactions: 0
+[2020.04.06-14.37.16:232][215]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.06-14.37.16:232][215]MapCheck: New page: The_World - Apr 6, 2020, 6:37:16 AM
+[2020.04.06-14.37.16:233][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.088ms to complete.
+[2020.04.06-14.37.20:650][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.37.25:413][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.04.06-14.37.26:632][654]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_01.Mapple_Tree_redleaf_01
+[2020.04.06-14.37.27:153][654]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.06-14.37.42:255][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.37.44:802][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.37.47:085][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.38.15:171][915]LogRenderer: Reallocating scene render targets to support 1008x900 Format 10 NumSamples 1 (Frame:1802).
+[2020.04.06-14.38.15:756][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.38.15:762][981]LogSlate: Window 'Mapple_Tree_redleaf_01' being destroyed
+[2020.04.06-14.38.17:802][158]LogSlate: Window 'Mapple_Tree_redleaf_01' being destroyed
+[2020.04.06-14.38.18:854][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.42.57:236][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.06-14.42.57:884][171]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/The_World_Auto16D85431245A21D31E975C09BB719EF16.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Autosaves/Game/FirstPersonBP/Maps/The_World_Auto1.umap'
+[2020.04.06-14.42.57:888][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/The_World' took 0.679
+[2020.04.06-14.42.57:888][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.679
+[2020.04.06-14.44.51:282][161]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Mapple_Tree_redleaf_0156AF21AE4E5F57E9FFE6F2A820D35ABE.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_01.uasset'
+[2020.04.06-14.45.06:283][553]MapCheck: New page: Map Check
+[2020.04.06-14.45.06:291][553]LightingResults: New page: Lighting Build - Apr 6, 2020, 6:45:06 AM
+[2020.04.06-14.45.06:312][553]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.06-14.45.06:325][553]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.06-14.45.06:325][553]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.06-14.45.06:326][553]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.06-14.45.06:326][553]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17600
+[2020.04.06-14.45.10:864][553]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.06-14.45.10:865][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.06-14.45.10:865][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.06-14.45.10:865][553]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.06-14.45.10:865][553]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.06-14.45.10:865][553]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.06-14.45.11:087][553]LogEditorBuildUtils: Build time 0:04
+[2020.04.06-14.45.11:133][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.06-14.45.37:478][ 67]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.37:801][ 68]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.38:475][ 70]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.38:808][ 71]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.39:493][ 73]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.39:827][ 74]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.40:163][ 75]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.40:507][ 76]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.40:848][ 77]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.41:178][ 78]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.41:851][ 80]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.42:192][ 81]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.42:533][ 82]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.43:187][ 84]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.43:523][ 85]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.45.50:900][106]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.45.50:900][106]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.45.51:904][109]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.03:118][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.46.06:122][833]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.09:326][124]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.10:415][222]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.10:415][222]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.20:291][126]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.20:291][126]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.21:960][276]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.22:205][294]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.22:751][325]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.22:751][325]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.23:557][387]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.23:557][387]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.24:475][460]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.24:475][460]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.24:936][494]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.24:936][494]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.25:037][501]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.25:037][501]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.26:465][612]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.26:465][612]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.26:521][613]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.26:521][613]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.26:819][636]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.26:819][636]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.27:077][653]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.27:077][653]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.27:352][672]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.27:352][672]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.27:605][690]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.27:605][690]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.27:869][710]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.27:869][710]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.27:993][717]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.27:993][717]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.28:119][726]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.28:119][726]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.28:281][736]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.28:281][736]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.28:425][747]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.28:425][747]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.29:738][836]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.29:738][836]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.29:738][836]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.30:159][867]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.30:159][867]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.31:171][950]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.31:171][950]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.31:720][998]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.31:720][998]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.32:817][ 80]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.32:817][ 80]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.33:275][116]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.34:753][230]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.35:066][248]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.36:528][366]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.36:765][382]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.38:435][513]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.38:554][521]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.39:853][625]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.39:991][635]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.40:524][675]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.41:396][743]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.42:070][794]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.42:585][831]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.42:585][831]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.43:137][874]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.43:137][874]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.44:041][944]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.44:041][944]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.44:452][975]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.44:489][976]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.45:493][ 57]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.45:842][ 83]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.46:154][107]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.46:154][107]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.46:254][113]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.46.46:667][145]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.46:708][146]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.46:864][155]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.46:864][155]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.47:045][164]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.47:045][164]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.47:219][172]LightingResults: Warning: Greenleaf_Tree_02 Object has overlapping UVs.
+[2020.04.06-14.46.47:219][172]LightingResults: Greenleaf_Tree_02 Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.47:248][173]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.47:248][173]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.47:382][183]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.47:382][183]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.47:502][192]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.47:502][192]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.46.59:223][140]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.46.59:223][140]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.47.01:105][283]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.47.01:105][283]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.47.01:328][298]LightingResults: Warning: Greenleaf_Tree_01 Object has overlapping UVs.
+[2020.04.06-14.47.01:328][298]LightingResults: Greenleaf_Tree_01 Lightmap UV are overlapping by 99.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.06-14.47.02:595][396]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.03:176][441]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.03:245][445]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.04:260][526]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.04:594][550]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.04:963][577]LightingResults: Warning: Mapple_Tree_redleaf_01 Object has wrapping UVs.
+[2020.04.06-14.47.04:991][579]Job is a success!
+[2020.04.06-14.47.05:301][580]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.046s
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:          1: 2.3% covering 14.1% of volume
+[2020.04.06-14.47.05:302][580]LogVolumetricLightmapImport:          2: 97.4% covering 9.3% of volume
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.04.06-14.47.08:175][580]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.04.06-14.47.08:375][580]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.04.06-14.47.08:405][580]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.04.06-14.47.08:417][580]LogStaticLightingSystem: The_World_BuiltData storing lightmap data for 491 meshes in 7 LightmapResourceClusters (70.1 Meshes per cluster).
+[2020.04.06-14.47.08:447][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.06-14.47.08:451][580]LogStaticLightingSystem: Illumination: 2:02 min (2.55 sec encoding lightmaps, 226 ms encoding shadowmaps)
+[2020.04.06-14.47.08:451][580]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.04.06-14.47.08:451][580]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.06-14.47.08:961][580]DumpUnbuiltLightIteractions
+[2020.04.06-14.47.08:961][580]Lights with unbuilt interactions: 0
+[2020.04.06-14.47.08:961][580]
+[2020.04.06-14.47.08:961][580]Primitives with unbuilt interactions: 0
+[2020.04.06-14.47.09:045][581]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.06-14.47.09:046][581]MapCheck: New page: The_World - Apr 6, 2020, 6:47:09 AM
+[2020.04.06-14.47.09:046][581]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.923ms to complete.
+[2020.04.06-14.47.34:847][630]LogStaticMesh: Building static mesh Mapple_Tree_redleaf_01...
+[2020.04.06-14.47.35:370][630]LogStaticMesh: Built static mesh [0.52s] /Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_01.Mapple_Tree_redleaf_01
+[2020.04.06-14.47.49:544][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.49.33:821][ 74]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.04.06-14.49.36:021][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.49.58:195][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.50.07:551][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.50.16:137][757]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.50.37:287][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.04.06-14.50.39:120][538]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03.Mapple_Tree_redleaf_03
+[2020.04.06-14.50.46:354][105]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.04.06-14.50.48:920][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.51.04:132][789]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2020.04.06-14.51.05:680][831]Cmd: TRANSACTION UNDO
+[2020.04.06-14.51.05:680][831]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.04.06-14.51.06:012][837]Cmd: TRANSACTION UNDO
+[2020.04.06-14.51.06:012][837]LogEditorTransaction: Undo Foliage Editing
+[2020.04.06-14.51.06:868][891]Cmd: TRANSACTION UNDO
+[2020.04.06-14.51.06:868][891]LogEditorTransaction: Undo Foliage Editing
+[2020.04.06-14.51.08:322][926]Cmd: TRANSACTION UNDO
+[2020.04.06-14.51.08:322][926]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.06-14.51.17:720][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.51.55:914][758]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.04.06-14.51.57:858][808]Cmd: DELETE
+[2020.04.06-14.51.57:858][808]Cmd: ACTOR DELETE
+[2020.04.06-14.51.57:873][808]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2020.04.06-14.51.57:902][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.04.06-14.51.57:902][808]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.04.06-14.52.03:059][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.53.02:168][534]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.53.08:843][534]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.53.16:738][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.53.24:331][146]LogStaticMesh: Building static mesh Mapple_Tree_redleaf_03...
+[2020.04.06-14.53.24:890][146]LogStaticMesh: Built static mesh [0.56s] /Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03.Mapple_Tree_redleaf_03
+[2020.04.06-14.53.33:914][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.20:761][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.25:907][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.27:317][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.29:441][549]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.54.29:448][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.32:268][549]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.54.34:854][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.36:471][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.37:321][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.38:724][985]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.54.38:731][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.54.45:722][985]LogSlate: Window 'Message' being destroyed
+[2020.04.06-14.54.55:590][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-14.55.15:646][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-14.55.29:627][665]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Mapple_Tree_redleaf_01337F1B6D4B96179F8A379FB3F094B6D3.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_01.uasset'
+[2020.04.06-14.58.18:744][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.06-14.58.19:434][545]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/The_World_Auto2310D213B4A2E96D22E540484D1736162.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Autosaves/Game/FirstPersonBP/Maps/The_World_Auto2.umap'
+[2020.04.06-14.58.19:438][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/The_World' took 0.719
+[2020.04.06-14.58.19:438][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.719
+[2020.04.06-14.58.19:440][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03] ([1] browsable assets)...
+[2020.04.06-14.58.19:459][545]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03.Mapple_Tree_redleaf_03]
+[2020.04.06-14.58.19:459][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03]
+[2020.04.06-14.58.19:495][545]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Mapple_Tree_redleaf_03_Auto2AAFA0B4C4992516564F2318140FD08A9.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Autosaves/Game/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03_Auto2.uasset'
+[2020.04.06-14.58.19:497][545]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.04.06-14.59.06:071][683]LogRenderer: Reallocating scene render targets to support 1024x920 Format 10 NumSamples 1 (Frame:21117).
+[2020.04.06-14.59.25:401][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.00.07:542][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.00.20:757][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.00.32:669][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.00.47:840][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.00.51:325][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.00.51:493][726]LogSavePackage: Moving '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Saved/Mapple_Tree_redleaf_035046509B43EA1C784544AA81524F0064.tmp' to '../../../../../../Users/Key/Documents/GitHub/Unga_Bunga/UngaBunga/Content/EssentialTreeKit/TreeGroup_3/Mapple_Tree_redleaf_03.uasset'
+[2020.04.06-15.00.52:367][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.00.52:409][789]LogRenderer: Reallocating scene render targets to support 1232x920 Format 10 NumSamples 1 (Frame:19860).
+[2020.04.06-15.01.05:170][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.01.23:454][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-15.01.28:738][697]LogActorFactory: Actor Factory created Mapple_Tree_redleaf_01
+[2020.04.06-15.01.29:213][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.01.35:193][ 18]LogActorFactory: Actor Factory created Greenleaf_Tree_01
+[2020.04.06-15.01.35:562][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.01.36:808][128]LogActorFactory: Actor Factory created Greenleaf_Tree_02
+[2020.04.06-15.01.37:190][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-15.02.47:230][544]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.06-15.02.48:189][544]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.958 s
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: 
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: Ensure condition failed: Handle->SetValue(NewValue, Flags) == FPropertyAccess::Success [File:D:\Build\++UE4\Sync\Engine\Source\Editor\DetailCustomizations\Private\IntervalStructCustomization.cpp] [Line: 234]
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: 
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: Stack: 
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff94713e389 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff946f115fe UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff946eb7760 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff946bf175a UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff946cda4e1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff946c600b9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff96632cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff966135efe UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff96612e8ff UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff96611a506 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff96610ff82 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9842db932 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9842cef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9842dd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9842cc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9ae505c0d USER32.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9ae505602 USER32.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9842de946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff6eb285d3e UE4Editor.exe!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff6eb29554c UE4Editor.exe!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff6eb2955ca UE4Editor.exe!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff6eb2a316c UE4Editor.exe!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff6eb2a5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9ae6d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: [Callstack] 0x00007ff9ae9eced1 ntdll.dll!UnknownFunction []
+[2020.04.06-15.02.48:189][544]LogOutputDevice: Error: 
+[2020.04.06-15.02.48:221][544]LogStats:                SubmitErrorReport -  0.000 s
